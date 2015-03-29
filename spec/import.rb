@@ -6,6 +6,6 @@ describe Hash do
   end
 
   it "should return a blank instance" do
-    expect("lol").to eq "loli"
+    expect("lol").to eq "lol"
   end
 end
