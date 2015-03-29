@@ -18,36 +18,33 @@ RSpec.describe GoodReadsImport::CSV do
       is_read = true
 
       expect(subject.csv[1]).to eq([
-        "'#{book1.title}'", 
-        "'#{book1.author}'", 
-        "'#{book1.year}'", 
-        "'#{is_read}'", 
-        "'#{book1.status.own_the_ebook}'", 
-        "'#{book1.status.own_the_book}'"])
+        book1.title, 
+        book1.author, 
+        book1.year,
+        book1.year, 
+        "read"])
     end
 
     it "should prepare the book in CSV format for the first book, that the ebook is owned" do
       is_ebook_owned = true
 
       expect(subject.csv[2]).to eq([
-        "'#{book2.title}'", 
-        "'#{book2.author}'", 
-        "'#{book2.year}'", 
-        "'#{book2.status.has_been_read}'", 
-        "'#{is_ebook_owned}'", 
-        "'#{book2.status.own_the_book}'"])
+        book2.title, 
+        book2.author, 
+        book2.year,
+        book2.year, 
+        "to-read own-the-ebook"])
     end
 
     it "should prepare the book in CSV format for the first book, that the book is owned" do
       is_book_owned = true
       
       expect(subject.csv[3]).to eq([
-        "'#{book3.title}'", 
-        "'#{book3.author}'", 
-        "'#{book3.year}'", 
-        "'#{book3.status.has_been_read}'", 
-        "'#{book3.status.own_the_ebook}'",
-        "'#{is_book_owned}'"])
+        book3.title, 
+        book3.author, 
+        book3.year,
+        book3.year, 
+        "to-read own-the-book"])
     end
 	end
 end
