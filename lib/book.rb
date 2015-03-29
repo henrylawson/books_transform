@@ -4,19 +4,20 @@ module GoodReadsImport
   		@title = title
   		@author = author
   		@year = year
-  		@status
+  		@status = status
   	end
 
     def ==(other)
-      title == other.title && 
-      author == other.author &&
-      year == other.year &&
-      status == other.status
+      squash == other.squash
     end
     alias :eql? :==
 
     def hash
-      [@title, @author, @year, @status].hash
+      squash.hash
+    end
+
+    def squash
+      [title, author, year].concat status.squash
     end
 
     protected 
