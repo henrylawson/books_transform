@@ -1,5 +1,7 @@
 module GoodReadsImport
   class Book
+    attr_reader :title, :author, :year, :status
+    
   	def initialize(title, author, year, status)
   		@title = title
   		@author = author
@@ -19,9 +21,5 @@ module GoodReadsImport
     def squash
       [title, author, year].concat status.squash
     end
-
-    protected 
-
-    attr_reader :title, :author, :year, :status
   end
 end

@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe GoodReadsImport::Parse do
+RSpec.describe GoodReadsImport::Parse do
 	context "when there are multiple well formed JSON books" do
 		BOOKS_JSON = <<JSON
 [

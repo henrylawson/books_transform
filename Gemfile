@@ -8,4 +8,6 @@ group :develpment, :test do
   gem "rspec", "~> 3.2"
   gem "rake", "~> 10.0"
   gem "guard-rspec", "~> 4.5"
+  gem 'factory_girl', '~> 4.5.0'
+  gem 'faker', '~> 1.4.3'
 end
