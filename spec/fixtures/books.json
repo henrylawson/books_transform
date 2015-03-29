@@ -1,0 +1,4314 @@
+[
+  {
+    "title": "The Agile Samurai",
+    "cover": "http://bks9.books.google.com/books?id=KjmXSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Jonathan Rasmusson",
+    "year": "2010",
+    "id": "50d9dd64-e9c5-ba8c-c753-e1f30e969b8c",
+    "priority": {
+      "all": "244",
+      "wishlist": "14",
+      "read": "63"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "13"
+  },
+  {
+    "title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
+    "cover": "http://bks7.books.google.com/books?id=HfDxMv484koC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Krug Steve",
+    "year": "2009",
+    "id": "88d639e6-6365-dbd1-fc4d-2a16f97867c4",
+    "priority": {
+      "all": "235",
+      "wishlist": "28",
+      "upcoming": "1",
+      "read": "60"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "22"
+  },
+  {
+    "title": "Working Effectively With Legacy Code",
+    "cover": "http://bks9.books.google.com/books?id=nyONTwPudakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Feathers",
+    "year": "2005",
+    "id": "54fa0651-ac02-06fe-83ec-0a667772b4f0",
+    "priority": {
+      "all": "245",
+      "read": "69"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "true",
+    "ownTheEBook": "false",
+    "notes": "",
+    "index": "12"
+  },
+  {
+    "title": "The art of unit testing",
+    "cover": "http://bks0.books.google.com/books?id=Z6NmOgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Roy Osherove",
+    "year": "2009",
+    "id": "56db32f9-faa6-74ce-b780-2b283a40de4a",
+    "priority": {
+      "all": "220",
+      "wishlist": "12",
+      "upcoming": "1",
+      "read": "68"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "true",
+    "ownTheEBook": "false",
+    "notes": "",
+    "index": "37"
+  },
+  {
+    "title": "Domain-Driven Design",
+    "cover": "http://bks5.books.google.com/books?id=7dlaMs0SECsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Eric Evans",
+    "year": "2004",
+    "id": "dea202ce-28c3-9fb2-cb35-c5623b43b1ab",
+    "priority": {
+      "all": "246",
+      "wishlist": "11",
+      "upcoming": "1",
+      "read": "67"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "11"
+  },
+  {
+    "title": "Leadership Mastery",
+    "cover": "http://bks9.books.google.com/books?id=cijQN5x6aLAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Dale Carnegie Training",
+    "year": "2009",
+    "id": "87198d6e-9aaa-d917-ea27-778e0f7e8703",
+    "priority": {
+      "all": "215",
+      "wishlist": "128",
+      "upcoming": "115"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Soft Skills",
+    "index": "66"
+  },
+  {
+    "title": "Rest in Practice",
+    "cover": "http://bks5.books.google.com/books?id=1D24-cGQRdsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jim Webber, Savas Parastatidis, Ian Robinson",
+    "year": "2010",
+    "id": "67eeed62-a6fa-dfff-0730-4dd3470950f4",
+    "priority": {
+      "all": "208",
+      "wishlist": "24",
+      "read": "66"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "49"
+  },
+  {
+    "title": "Testing Extreme Programming",
+    "cover": "http://bks9.books.google.com/books?id=eTREaOEImsgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Lisa Crispin, Tip House",
+    "year": "2003",
+    "id": "356a3cbf-1272-f9af-45c6-1e71765cba4a",
+    "priority": {
+      "all": "227",
+      "wishlist": "132",
+      "upcoming": "119"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Famous",
+    "index": "62"
+  },
+  {
+    "title": "Mastering Regular Expressions",
+    "cover": "http://bks3.books.google.com/books?id=sshKXlr32-AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jeffrey E. F. Friedl",
+    "year": "2012",
+    "id": "f8eaf524-1ca9-ed8b-b2f8-3683f904ddbe",
+    "priority": {
+      "all": "214",
+      "upcoming": "1",
+      "read": "38"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Fundamentals",
+    "index": "43"
+  },
+  {
+    "title": "User Stories Applied",
+    "cover": "http://bks9.books.google.com/books?id=DHZP_YL3FxYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Mike Cohn",
+    "year": "2004",
+    "id": "a5bd23c4-76e1-bf51-18ee-f7152a297fea",
+    "priority": {
+      "all": "217",
+      "wishlist": "19",
+      "upcoming": "1",
+      "read": "37"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "BA",
+    "index": "40"
+  },
+  {
+    "title": "The Mythical Man-Month",
+    "cover": "http://bks1.books.google.com/books?id=Zu1dujtMtLQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Brooks, Jr. Frederick P.",
+    "year": "1995",
+    "id": "10e93e69-3abe-be04-6486-5f9fc5356d85",
+    "priority": {
+      "all": "242",
+      "wishlist": "93",
+      "upcoming": "85",
+      "read": "7"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Canon",
+    "index": "15"
+  },
+  {
+    "title": "Clean Code",
+    "cover": "http://bks9.books.google.com/books?id=dwSfGQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Robert C. Martin",
+    "year": "2009",
+    "id": "5d054cd3-0fd3-f8c7-e2b0-1c8cb4e72aa9",
+    "priority": {
+      "all": "228",
+      "wishlist": "11",
+      "upcoming": "1",
+      "read": "36"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Fundamentals",
+    "index": "29"
+  },
+  {
+    "title": "JavaScript",
+    "cover": "http://bks8.books.google.com/books?id=PXa2bby0oQ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Douglas Crockford",
+    "year": "2008",
+    "id": "171ccbc3-371e-8534-0902-6a73fd1515a4",
+    "priority": {
+      "all": "206",
+      "read": "65"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "51"
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "cover": "http://bks1.books.google.com/books?id=K4qv1D-LKhoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Gamma",
+    "year": "2004",
+    "id": "da464e7b-7d40-58b0-f462-1fdf24f88b7c",
+    "priority": {
+      "all": "221",
+      "read": "64"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "36"
+  },
+  {
+    "title": "Continuous Delivery",
+    "cover": "http://bks9.books.google.com/books?id=6ADDuzere-YC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Jez Humble, David Farley",
+    "year": "2010",
+    "id": "687d870d-e725-19fe-b590-a235827c054e",
+    "priority": {
+      "all": "249",
+      "read": "62"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "8"
+  },
+  {
+    "title": "Xunit Test Patterns",
+    "cover": "http://bks1.books.google.com/books?id=-izOiCEIABQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Gerard Meszaros",
+    "year": "2007",
+    "id": "662030bb-0546-8f23-d224-d430fb409849",
+    "priority": {
+      "all": "231",
+      "read": "61"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "",
+    "index": "26"
+  },
+  {
+    "title": "Patterns of Enterprise Application Architecture",
+    "cover": "http://bks7.books.google.com/books?id=vqTfNFDzzdIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Martin J Fowler",
+    "year": "2012",
+    "id": "89d7fc82-fe00-7d07-fe40-556cff98ed5b",
+    "priority": {
+      "all": "219",
+      "wishlist": "25",
+      "upcoming": "1",
+      "read": "59"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "38"
+  },
+  {
+    "title": "Implementation Patterns",
+    "cover": "http://bks7.books.google.com/books?id=XPbGEtu47bkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Kent Beck",
+    "year": "2010",
+    "id": "f406262f-3618-d886-e344-45c935b5dbbe",
+    "priority": {
+      "all": "222",
+      "wishlist": "19",
+      "upcoming": "1",
+      "read": "44"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "KB Series",
+    "index": "35"
+  },
+  {
+    "title": "Head First Java",
+    "cover": "http://bks3.books.google.com/books?id=uIVJiAPlBq0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Kathy Sierra, Bert Bates",
+    "year": "2005",
+    "id": "77d66bcc-53e3-42da-cbdc-1819081ea7cb",
+    "priority": {
+      "all": "209",
+      "read": "58"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "true",
+    "ownTheEBook": "false",
+    "notes": "",
+    "index": "48"
+  },
+  {
+    "title": "The RSpec Book",
+    "cover": "http://bks2.books.google.com/books?id=0rxoPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "David Chelimsky, Dave Astels, Bryan Helmkamp, Zach Dennis, Dan North, Aslak Hellesoy",
+    "year": "2010",
+    "id": "52972997-3d57-70bb-88a8-0545a7a69474",
+    "priority": {
+      "all": "201",
+      "wishlist": "24",
+      "read": "57"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "56"
+  },
+  {
+    "title": "Rails Recipes",
+    "cover": "http://bks0.books.google.com/books?id=1wCVuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Chad Fowler",
+    "year": "2011",
+    "id": "5a94193f-c9e7-d894-76de-b08542da1b39",
+    "priority": {
+      "all": "250",
+      "upcoming": "1",
+      "read": "32"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "7"
+  },
+  {
+    "title": "Programming Ruby 1.9",
+    "cover": "http://bks4.books.google.com/books?id=f89GPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Dave Thomas, Chad Fowler, Andy Hunt",
+    "year": "2009",
+    "id": "59a92735-e2ca-1bc9-d2f5-654964f2f28f",
+    "priority": {
+      "all": "200",
+      "read": "56"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "57"
+  },
+  {
+    "title": "Beautiful Code",
+    "cover": "http://bks8.books.google.com/books?id=gJrmszNHQV4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Andy Oram, Greg Wilson",
+    "year": "2007",
+    "id": "be8af07a-c8c0-9e45-445d-4528138c2ba5",
+    "priority": {
+      "all": "224",
+      "upcoming": "163"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Fundamentals",
+    "index": "18"
+  },
+  {
+    "title": "Enterprise Recipes with Ruby and Rails",
+    "cover": "http://bks0.books.google.com/books?id=dZO0NwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Maik Schmidt",
+    "year": "2008",
+    "id": "412fb5f0-121d-9dd0-6045-a12b1c3b4278",
+    "priority": {
+      "all": "226",
+      "wishlist": "2",
+      "upcoming": "1",
+      "read": "41"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "31"
+  },
+  {
+    "title": "Agile Web Development with Rails",
+    "cover": "http://bks8.books.google.com/books?id=pQORSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson, Leon Breedt",
+    "year": "2011",
+    "id": "d8a21ac1-69a1-9e54-9fe9-d6c588419f38",
+    "priority": {
+      "all": "203",
+      "upcoming": "1",
+      "read": "40"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "54"
+  },
+  {
+    "title": "Advanced Rails Recipes",
+    "cover": "http://bks3.books.google.com/books?id=6a1cAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Mike Clark, Rails Community",
+    "year": "2008",
+    "id": "3370e35e-1be6-a1b9-a0f8-aec52f4e4262",
+    "priority": {
+      "all": "240",
+      "upcoming": "1",
+      "read": "39"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "17"
+  },
+  {
+    "title": "Effective Java",
+    "cover": "http://bks8.books.google.com/books?id=Ft8t0S4VjmwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Joshua Bloch",
+    "year": "2008",
+    "id": "bff6e928-0f8c-469d-93e8-087047fe3439",
+    "priority": {
+      "all": "243",
+      "wishlist": "90",
+      "upcoming": "70",
+      "read": "12"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Java",
+    "index": "14"
+  },
+  {
+    "title": "Peopleware: Productive Projects and Teams",
+    "cover": "http://bks3.books.google.com/books?id=eA9PAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Tom DeMarco, Timothy R. Lister",
+    "year": "1999",
+    "id": "d648037b-b088-9f97-8d88-1d0b477a5a1d",
+    "priority": {
+      "all": "229",
+      "wishlist": "130",
+      "upcoming": "117"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Canon",
+    "index": "64"
+  },
+  {
+    "title": "The Little Schemer",
+    "cover": "http://bks6.books.google.com/books?id=xyO-KLexVnMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Daniel P. Friedman, Matthias Felleisen",
+    "year": "2000",
+    "id": "de741fff-bd6f-1f27-afe9-40373f850c7a",
+    "priority": {
+      "all": "211",
+      "wishlist": "127",
+      "upcoming": "114"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Fundamentals",
+    "index": "67"
+  },
+  {
+    "title": "Head First HTML5 Programming",
+    "cover": "http://bks6.books.google.com/books?id=WfAya4HytnAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Eric Freeman, Elisabeth Robson",
+    "year": "2011",
+    "id": "2f5532fe-bf98-3cfb-be2c-56c16cffcbfa",
+    "priority": {
+      "all": "237",
+      "upcoming": "1",
+      "read": "25"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "20"
+  },
+  {
+    "title": "Head First Design Patterns",
+    "cover": "http://bks9.books.google.com/books?id=GGpXN9SMELMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates",
+    "year": "2004",
+    "id": "e8b69aa7-51f1-635f-8f76-c343d5b3cce5",
+    "priority": {
+      "all": "239",
+      "read": "55"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "18"
+  },
+  {
+    "title": "The Principles of Product Development Flow",
+    "cover": "http://bks7.books.google.com/books?id=1HlPPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Donald G. Reinertsen",
+    "year": "2009",
+    "id": "679a0d38-836d-a302-9d30-80f8f895dbc2",
+    "priority": {
+      "all": "230",
+      "wishlist": "87",
+      "upcoming": "106",
+      "read": "6"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Management",
+    "index": "27"
+  },
+  {
+    "title": "Kanban Made Simple",
+    "cover": "http://bks5.books.google.com/books?id=fR1WvjSlE9gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "John M. Gross, Kenneth R. McInnis",
+    "year": "2003",
+    "id": "ee9e2746-5eb4-e6b6-8ced-f926eda06059",
+    "priority": {
+      "all": "225",
+      "wishlist": "20",
+      "upcoming": "168"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Kanban",
+    "index": "13"
+  },
+  {
+    "title": "Refactoring Databases",
+    "cover": "http://bks7.books.google.com/books?id=fN5Aa_m38vAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Scott J Ambler, Pramodkumar J. Sadalage",
+    "year": "2011",
+    "id": "d2ced8ae-6ba5-c4a4-5c28-7d133b85165d",
+    "priority": {
+      "all": "247",
+      "wishlist": "28",
+      "upcoming": "1",
+      "read": "46"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "MF Series",
+    "index": "10"
+  },
+  {
+    "title": "Bridging the Communication Gap",
+    "cover": "http://bks8.books.google.com/books?id=SZtkPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Gojko Adzic",
+    "year": "2009",
+    "id": "8a173b1b-329a-87c3-f050-f1b9da574d85",
+    "priority": {
+      "all": "212",
+      "wishlist": "131",
+      "upcoming": "146"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Testing",
+    "index": "35"
+  },
+  {
+    "title": "Specification by Example",
+    "cover": "http://bks9.books.google.com/books?id=5F5PYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Gojko Adzic",
+    "year": "2011",
+    "id": "8e945f15-8c2d-20b7-4d6d-36bcd321ab4e",
+    "priority": {
+      "all": "234",
+      "wishlist": "29",
+      "upcoming": "181"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Testing",
+    "index": "23"
+  },
+  {
+    "title": "Agile Testing: A Practical Guide For Testers And Agile Teams",
+    "cover": "http://bks6.books.google.com/books?id=0VXkNGfHM4wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Crispin",
+    "year": "2010",
+    "id": "48c84b2e-83f9-e104-9f9f-0b9c7d6513f9",
+    "priority": {
+      "all": "202",
+      "wishlist": "124",
+      "upcoming": "116"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Testing",
+    "index": "65"
+  },
+  {
+    "title": "The Progress Principle",
+    "cover": "http://bks9.books.google.com/books?id=7YgGqk3pD3oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Teresa Amabile, Steven Kramer",
+    "year": "2011",
+    "id": "d6d7c67f-14e5-bd25-7a06-288f293525db",
+    "priority": {
+      "all": "251",
+      "wishlist": "125",
+      "upcoming": "113"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Soft Skills",
+    "index": "68"
+  },
+  {
+    "title": "Introduction to Linux (Third Edition)",
+    "cover": "http://bks5.books.google.com/books?id=z3MoAH32jzIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Machtelt Garrels",
+    "year": "2010",
+    "id": "cb862b53-3d23-270d-4271-d1cee7ea8db7",
+    "priority": {
+      "all": "233",
+      "upcoming": "1",
+      "read": "33"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Exploring",
+    "index": "24"
+  },
+  {
+    "title": "Object-Oriented Reengineering Patterns",
+    "cover": "http://bks0.books.google.com/books?id=rfE6svVkyHUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Serge Demeyer, Stéphane Ducasse, Oscar Marius Nierstrasz",
+    "year": "2003",
+    "id": "1fd0b76e-a392-d23f-cc32-cf964fb39c2d",
+    "priority": {
+      "all": "248",
+      "wishlist": "46",
+      "upcoming": "160"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Fundamentals",
+    "index": "21"
+  },
+  {
+    "title": "Pair Programming Illuminated",
+    "cover": "http://bks6.books.google.com/books?id=LRQhdlrKNE8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Laurie Williams, Robert R. Kessler",
+    "year": "2003",
+    "id": "6b003fd0-13ad-ab37-d030-5a8eb206c960",
+    "priority": {
+      "all": "205",
+      "wishlist": "126",
+      "upcoming": "111"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Pairing",
+    "index": "70"
+  },
+  {
+    "title": "The Lean Startup",
+    "cover": "http://bks4.books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Eric Ries",
+    "year": "2011",
+    "id": "7e879d57-8c1d-0993-a4c9-7c4d9dd72a26",
+    "priority": {
+      "all": "241",
+      "wishlist": "24",
+      "upcoming": "1",
+      "read": "24"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Lean",
+    "index": "16"
+  },
+  {
+    "title": "Service Design Patterns",
+    "cover": "http://bks6.books.google.com/books?id=wljJZbEO8ZQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Robert Daigneau",
+    "year": "2011",
+    "id": "057fd92f-1870-8354-06e3-26e171bc54a3",
+    "priority": {
+      "all": "213",
+      "wishlist": "31",
+      "read": "54"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "44"
+  },
+  {
+    "title": "Refactoring HTML",
+    "cover": "http://bks7.books.google.com/books?id=I2MKuc4iZDYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Elliotte Rusty Harold",
+    "year": "2008",
+    "id": "6c358188-4704-4808-214f-a234830185c5",
+    "priority": {
+      "all": "236",
+      "wishlist": "5",
+      "upcoming": "1",
+      "read": "48"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "MF Series",
+    "index": "21"
+  },
+  {
+    "title": "Continuous Integration",
+    "cover": "http://bks7.books.google.com/books?id=YPlgL1aILqIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Duvall Paul",
+    "year": "2007",
+    "id": "dad245b7-2e89-f00e-0097-f218979897cd",
+    "priority": {
+      "all": "238",
+      "read": "53"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "19"
+  },
+  {
+    "title": "Refactoring to patterns",
+    "cover": "http://bks5.books.google.com/books?id=h2sdNbKW65gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Joshua Kerievsky",
+    "year": "2005",
+    "id": "05613ba9-4601-2119-9ed5-eea2133912c3",
+    "priority": {
+      "all": "218",
+      "wishlist": "10",
+      "upcoming": "1",
+      "read": "49"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "MF Series",
+    "index": "39"
+  },
+  {
+    "title": "Enterprise Integration Patterns",
+    "cover": "http://bks7.books.google.com/books?id=qqB7nrrna_sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Gregor Hohpe, Bobby Woolf",
+    "year": "2012",
+    "id": "fad173a7-2f64-543a-621f-7a8d7dd067d7",
+    "priority": {
+      "all": "255",
+      "read": "52"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "2"
+  },
+  {
+    "title": "Beyond Software Architecture",
+    "cover": "http://bks4.books.google.com/books?id=0slJ8zynjCEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Luke Hohmann",
+    "year": "2003",
+    "id": "2e8839e9-3233-8808-9e96-a4531e870c4a",
+    "priority": {
+      "all": "254",
+      "wishlist": "22",
+      "upcoming": "1",
+      "read": "47"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "MF Series",
+    "index": "3"
+  },
+  {
+    "title": "Analysis Patterns",
+    "cover": "http://bks8.books.google.com/books?id=4V8pZmpwmBYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Martin Fowler",
+    "year": "1997",
+    "id": "925eab5c-20d7-4240-f0f6-b5fed134ffc3",
+    "priority": {
+      "all": "207",
+      "read": "51"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "",
+    "index": "50"
+  },
+  {
+    "title": "The Art of SQL",
+    "cover": "http://bks3.books.google.com/books?id=HfcMDvxb43AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Stéphane Faroult, Peter Robson",
+    "year": "2006",
+    "id": "f991b307-a443-d1de-6769-4e7bf2253539",
+    "priority": {
+      "all": "232",
+      "upcoming": "1",
+      "read": "42"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "DB",
+    "index": "25"
+  },
+  {
+    "title": "SQL Antipatterns",
+    "cover": "http://bks3.books.google.com/books?id=Ghr4RAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Bill Karwin",
+    "year": "2010",
+    "id": "ff29e5bc-bd8f-77f2-3e2e-790df10c2353",
+    "priority": {
+      "all": "253",
+      "wishlist": "129",
+      "upcoming": "167"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "DB",
+    "index": "14"
+  },
+  {
+    "title": "Gödel, Escher, Bach",
+    "cover": "http://bks3.books.google.com/books?id=lic72KLZq-0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Douglas R. Hofstadter",
+    "year": "1999",
+    "id": "a2a9e9e4-ddae-3364-d218-b51dfa81a779",
+    "priority": {
+      "all": "223",
+      "wishlist": "123",
+      "upcoming": "118"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "Fundamentals",
+    "index": "63"
+  },
+  {
+    "title": "Code Complete",
+    "cover": "http://bks1.books.google.com/books?id=3JfE7TGUwvgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Steve McConnell",
+    "year": "2009",
+    "id": "8cb023af-29de-1fd7-ab4c-2b74797f9153",
+    "priority": {
+      "all": "204",
+      "upcoming": "1",
+      "read": "35"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Fundamentals",
+    "index": "53"
+  },
+  {
+    "title": "Just Spring",
+    "cover": "http://bks4.books.google.com/books?id=iXO1yZwPG-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Madhusudhan Konda",
+    "year": "2011",
+    "id": "96b5086d-78ce-86b7-02f5-de2c6df7aca0",
+    "priority": {
+      "all": "216",
+      "upcoming": "61",
+      "read": "8"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Java",
+    "index": "41"
+  },
+  {
+    "title": "C# 4.0 in a Nutshell",
+    "cover": "http://bks2.books.google.com/books?id=VENrFSQFco8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Joseph Albahari, Ben Albahari",
+    "year": "2010",
+    "id": "b09eea2f-2436-76da-b9f0-a5144f850a71",
+    "priority": {
+      "all": "252",
+      "upcoming": "1",
+      "read": "34"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "C#",
+    "index": "5"
+  },
+  {
+    "title": "NoSQL Distilled",
+    "cover": "http://bks9.books.google.com/books?id=nG32ygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Martin J. Fowler, Pramodkumar J. Sadalage",
+    "year": "2012",
+    "id": "ebffea68-ae4e-5168-b906-267168f6828c",
+    "priority": {
+      "all": "256",
+      "upcoming": "1",
+      "read": "45"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "MF Series",
+    "index": "1"
+  },
+  {
+    "title": "Domain-Specific Languages",
+    "cover": "http://bks2.books.google.com/books?id=ri1muolw_YwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Martin Fowler, Rebecca Parsons",
+    "year": "2010",
+    "id": "a41e8988-76a0-985f-3929-c6f517037d3d",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "wishlist": "1",
+      "read": "50",
+      "all": "199"
+    },
+    "notes": "",
+    "index": "58"
+  },
+  {
+    "title": "ATDD by Example",
+    "cover": "http://bks4.books.google.com/books?id=hJ93tgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Markus Gartner",
+    "year": "2012",
+    "id": "80ba795d-8771-034a-df21-28f31572a5f0",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "all": "198",
+      "upcoming": "123",
+      "wishlist": "122"
+    },
+    "notes": "KB Series",
+    "index": "58"
+  },
+  {
+    "title": "Implementing Lean Software Development",
+    "cover": "http://bks2.books.google.com/books?id=jlRnQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Mary Poppendieck, Tom Poppendieck",
+    "year": "2007",
+    "id": "a80c3ae4-2c7c-7318-eccf-5fd652e35b6d",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "all": "197",
+      "upcoming": "1",
+      "wishlist": "16",
+      "read": "21"
+    },
+    "notes": "Lean",
+    "index": "60"
+  },
+  {
+    "title": "Leading Lean Software Development",
+    "cover": "http://bks1.books.google.com/books?id=Ty9ZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Mary Poppendieck, Tom Poppendieck",
+    "year": "2009",
+    "id": "19866ce8-6932-74a0-cd5c-25a116997ab7",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "all": "196",
+      "upcoming": "2",
+      "wishlist": "30",
+      "read": "19"
+    },
+    "notes": "Lean",
+    "index": "61"
+  },
+  {
+    "title": "Growing Object-Oriented Software: Guided by Tests",
+    "cover": "http://bks3.books.google.com/books?id=fOyYCR4oYs0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Steve Freeman, Nat Pryce",
+    "year": "2009",
+    "id": "b308f28a-44fe-8e33-5230-978c7dbeb27d",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "141",
+      "all": "195",
+      "wishlist": "121"
+    },
+    "notes": "KB Series",
+    "index": "40"
+  },
+  {
+    "title": "Test Driven",
+    "cover": "http://bks9.books.google.com/books?id=_nQMGQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Lasse Koskela",
+    "year": "2007",
+    "id": "ad936061-f116-3f73-fd44-95b4dd104395",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "all": "194",
+      "upcoming": "122",
+      "wishlist": "120"
+    },
+    "notes": "Testing",
+    "index": "59"
+  },
+  {
+    "title": "The Economics of Software Quality",
+    "cover": "http://bks9.books.google.com/books?id=oEPjYVfUR1wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Capers Jones, Olivier Bonsignour, Jitendra Subramanyam",
+    "year": "2011",
+    "id": "630ad8dc-5573-4838-4022-23f3041c5ca4",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "110",
+      "all": "193",
+      "wishlist": "119"
+    },
+    "notes": "Fundamentals",
+    "index": "71"
+  },
+  {
+    "title": "Pro Git",
+    "cover": "http://bks0.books.google.com/books?id=qJsXefpx1AUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Scott Chacon",
+    "year": "2009",
+    "id": "ae259bbf-893d-4f2c-201d-04b022bcd1a2",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "1",
+      "all": "192",
+      "read": "43"
+    },
+    "notes": "",
+    "index": "65"
+  },
+  {
+    "title": "CLR via C#",
+    "cover": "http://bks6.books.google.com/books?id=QMdCf_mm55cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jeffrey Richter",
+    "year": "2006",
+    "id": "bae829e2-3200-03da-d5dd-9afc356e279c",
+    "priority": {
+      "all": "191",
+      "upcoming": "121",
+      "wishlist": "118"
+    },
+    "notes": "C#",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "index": "60"
+  },
+  {
+    "title": "Windows PowerShell in Action",
+    "cover": "http://bks1.books.google.com/books?id=iijVQQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Bruce Payette",
+    "year": "2011",
+    "id": "6e0edf78-1da1-257d-b216-30a25783aa9b",
+    "priority": {
+      "all": "190",
+      "upcoming": "1",
+      "wishlist": "9",
+      "read": "30"
+    },
+    "notes": "PowerShell",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "index": "67"
+  },
+  {
+    "title": "The visible ops handbook",
+    "cover": "http://bks9.books.google.com/books?id=okq5AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Kevin Behr, Gene Kim, George Spafford, Information Technology Process Institute",
+    "year": "2005",
+    "id": "a581cc15-d0d1-ee7e-5ee5-44bec2543553",
+    "priority": {
+      "all": "189",
+      "upcoming": "109",
+      "wishlist": "117"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "TW Thread",
+    "index": "72"
+  },
+  {
+    "title": "Programming Amazon Web Services",
+    "cover": "http://bks8.books.google.com/books?id=xIauw5xWTO8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "James Murty",
+    "year": "2008",
+    "id": "693dc096-616c-56b7-a15e-9942e951baad",
+    "priority": {
+      "all": "188",
+      "upcoming": "112",
+      "wishlist": "116"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "notes": "TW Thread",
+    "index": "69"
+  },
+  {
+    "title": "Lessons Learned in Software Testing",
+    "cover": "http://bks3.books.google.com/books?id=n88imf9m25kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Cem Kaner, James Bach, Bret Pettichord",
+    "year": "2011",
+    "id": "c3dee1dc-d96f-ab0a-b0d3-3ad2e2bb39f4",
+    "priority": {
+      "all": "187",
+      "upcoming": "108",
+      "wishlist": "115"
+    },
+    "notes": "TW Thread",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "index": "73"
+  },
+  {
+    "title": "The Cucumber Book",
+    "cover": "http://bks3.books.google.com/books?id=oMswygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Aslak Hellesoy, Matt Wynne",
+    "year": "2012",
+    "id": "216eca36-0578-6f29-50e7-a95eb17f415f",
+    "priority": {
+      "all": "186",
+      "upcoming": "173",
+      "wishlist": "114"
+    },
+    "notes": "TW Thread",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "index": "71"
+  },
+  {
+    "title": "C# in Depth",
+    "cover": "http://bks6.books.google.com/books?id=BRc1QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Jon Skeet",
+    "year": "2010",
+    "id": "a434bc42-2d1c-39fa-607b-10b6f009a539",
+    "hasBeenRead": "true",
+    "ownTheBook": "true",
+    "ownTheEBook": "false",
+    "priority": {
+      "all": "185",
+      "upcoming": "1",
+      "wishlist": "4",
+      "read": "29"
+    },
+    "notes": "C#",
+    "index": "72"
+  },
+  {
+    "title": "Windows PowerShell Cookbook",
+    "cover": "http://bks9.books.google.com/books?id=IsVy5iQxx_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Lee Holmes",
+    "year": "2010",
+    "id": "0de7246a-b924-a11f-23d5-7a69153d2b19",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "105",
+      "all": "184",
+      "wishlist": "113"
+    },
+    "notes": "PowerShell",
+    "index": "76"
+  },
+  {
+    "title": "Windows PowerShell for Developers",
+    "cover": "http://bks5.books.google.com/books?id=Zx6-J2wQB0oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Douglas Finke",
+    "year": "2012",
+    "id": "04c620b8-ce72-0e79-eb32-8d8af66b3d78",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "all": "183",
+      "upcoming": "107",
+      "wishlist": "112"
+    },
+    "notes": "PowerShell",
+    "index": "74"
+  },
+  {
+    "title": "Async JavaScript Recipes for Event-Driven Code",
+    "author": "Trevor Burnham",
+    "year": "2012",
+    "cover": "",
+    "notes": "JavaScript",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "id": "1f79314f-8ee0-e8a8-f822-76d91ee7ffaf",
+    "priority": {
+      "upcoming": "104",
+      "all": "182",
+      "wishlist": "111"
+    },
+    "index": "77"
+  },
+  {
+    "title": "The Retrospective Handbook",
+    "author": "Patrick Kua",
+    "year": "2012",
+    "cover": "",
+    "notes": "Fundamentals",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "id": "40640a66-52c7-3f74-3c33-2fe19c0a2bc5",
+    "priority": {
+      "all": "181",
+      "upcoming": "1",
+      "read": "20"
+    },
+    "index": "76"
+  },
+  {
+    "title": "The Seasoned Schemer",
+    "cover": "http://bks8.books.google.com/books?id=vKIvIXSxcCgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Daniel P. Friedman, Matthias Felleisen",
+    "year": "1996",
+    "id": "c2415f5b-7e84-7ea1-af26-c66c99f1c522",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "106",
+      "all": "180",
+      "wishlist": "110"
+    },
+    "notes": "Fundamentals",
+    "index": "75"
+  },
+  {
+    "title": "On Lisp",
+    "cover": "http://bks8.books.google.com/books?id=jbJQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Paul Graham",
+    "year": "1994",
+    "id": "ed788668-6a1a-3d7b-50aa-d51cb66a9efe",
+    "priority": {
+      "all": "179",
+      "upcoming": "103",
+      "wishlist": "109"
+    },
+    "notes": "Lisp",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "index": "78"
+  },
+  {
+    "title": "Agile Software Development, Principles, Patterns, and Practices",
+    "cover": "http://bks4.books.google.com/books?id=0HYhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Robert C. Martin",
+    "year": "2003",
+    "id": "887d38dc-4a5b-6334-48af-2ab017219d2e",
+    "priority": {
+      "all": "178",
+      "upcoming": "70",
+      "wishlist": "5",
+      "read": "17"
+    },
+    "hasBeenRead": "true",
+    "ownTheBook": "true",
+    "ownTheEBook": "false",
+    "notes": "Fundamentals",
+    "index": "79"
+  },
+  {
+    "title": "How to Win Friends & Influence People",
+    "cover": "http://bks3.books.google.com/books?id=AABIewAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Dale Carnegie, Dorothy Carnegie",
+    "year": "1998",
+    "id": "b83c628f-e2b6-3f89-9eaf-76bb909245d5",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "all": "177",
+      "upcoming": "1",
+      "read": "28"
+    },
+    "notes": "Soft Skills",
+    "index": "80"
+  },
+  {
+    "title": "Influence",
+    "cover": "http://bks0.books.google.com/books?id=5dfv0HJ1TEoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Robert B. Cialdini",
+    "year": "2007",
+    "id": "569e4023-5d80-9bb2-9d4e-ca74e2bfcd0f",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "all": "176",
+      "upcoming": "1",
+      "read": "23"
+    },
+    "notes": "Soft Skills",
+    "index": "81"
+  },
+  {
+    "title": "Microsoft® SQL Server® 2012 T-SQL Fundamentals",
+    "cover": "",
+    "author": "Itzik Ben-gan",
+    "year": "2012",
+    "id": "54dd5813-6a04-d8b3-a178-0f33ded04f35",
+    "priority": {
+      "all": "210",
+      "upcoming": "1",
+      "read": "27"
+    },
+    "notes": "DB",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "index": "47"
+  },
+  {
+    "title": "Lean Software Development",
+    "cover": "http://bks7.books.google.com/books?id=hQk4S7asBi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Mary Poppendieck, Tom Poppendieck",
+    "year": "2003",
+    "id": "91b647dd-f175-eb28-97f9-7df07fde5978",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "1",
+      "all": "175",
+      "read": "22"
+    },
+    "notes": "Lean",
+    "index": "82"
+  },
+  {
+    "title": "Lean from the Trenches",
+    "cover": "http://bks6.books.google.com/books?id=gHMCYAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Henrik Kniberg",
+    "year": "2012",
+    "id": "47385d3e-4882-d283-612f-6b7023a19286",
+    "priority": {
+      "all": "174",
+      "upcoming": "166",
+      "wishlist": "107"
+    },
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "notes": "Lean",
+    "index": "15"
+  },
+  {
+    "title": "Agile Estimating And Planning",
+    "cover": "http://bks3.books.google.com/books?id=BuFWHffRJssC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Mike Cohn",
+    "year": "2006",
+    "id": "19463f3b-b8cd-6075-e107-83e1b2f0f60b",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "1",
+      "all": "173",
+      "read": "26"
+    },
+    "notes": "Fundamentals",
+    "index": "84"
+  },
+  {
+    "title": "Extreme Programming Explained",
+    "cover": "http://bks8.books.google.com/books?id=G8EL4H4vf7UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Kent Beck",
+    "year": "2000",
+    "id": "3d86d521-ce99-3892-f163-3b4cb1966285",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "1",
+      "all": "172",
+      "read": "31"
+    },
+    "notes": "Fundamentals",
+    "index": "85"
+  },
+  {
+    "title": "Planning Extreme Programming",
+    "cover": "http://bks5.books.google.com/books?id=u13hVoYVZa8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Kent Beck, Martin Fowler",
+    "year": "2001",
+    "id": "5db72078-eb51-374c-de59-79db22af87e7",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "all": "171",
+      "upcoming": "169"
+    },
+    "notes": "Fundamentals",
+    "index": "12"
+  },
+  {
+    "title": "Tools of Critical Thinking",
+    "cover": "http://bks7.books.google.com.au/books?id=rkKJQAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "David A. Levy",
+    "year": "2009",
+    "id": "ea65162d-4d45-1e7b-ad4f-d510c5438d99",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "102",
+      "all": "165",
+      "wishlist": "106"
+    },
+    "notes": "TW Thread",
+    "index": "79"
+  },
+  {
+    "title": "How to Solve It",
+    "cover": "http://bks4.books.google.com.au/books?id=X3xsgXjTGgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "G. Polya",
+    "year": "2004",
+    "id": "a21cdbd4-8ab4-f01d-5ad3-2d9c5e0f1c80",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "101",
+      "all": "169",
+      "wishlist": "105"
+    },
+    "notes": "TW Thread",
+    "index": "80"
+  },
+  {
+    "title": "How Google Tests Software",
+    "cover": "http://bks8.books.google.com.au/books?id=VrAx1ATf-RoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "James A. Whittaker, Jason Arbon, Jeff Carollo",
+    "year": "2012",
+    "id": "3d007842-b631-d609-233d-751e7c313ed8",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "100",
+      "all": "168",
+      "wishlist": "104"
+    },
+    "notes": "TW China",
+    "index": "81"
+  },
+  {
+    "title": "Perfect Software",
+    "cover": "",
+    "author": "Gerald M. Weinberg",
+    "year": "2008",
+    "id": "43a45753-5f8e-f240-eb12-f2c5275c7c04",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "99",
+      "all": "167",
+      "wishlist": "103"
+    },
+    "notes": "TW China",
+    "index": "82"
+  },
+  {
+    "title": "Exploratory Software Testing",
+    "cover": "http://bks4.books.google.com.au/books?id=BsB0NpkcdgIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "James A. Whittaker",
+    "year": "2009",
+    "id": "d760cc77-8b14-334c-6333-1e8f3527eb77",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "98",
+      "all": "166",
+      "wishlist": "102"
+    },
+    "notes": "TW China",
+    "index": "83"
+  },
+  {
+    "title": "Beautiful Testing",
+    "cover": "http://bks8.books.google.com.au/books?id=qAv8p4piP2cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Tim Riley, Adam Goucher",
+    "year": "2009",
+    "id": "ed7d5169-5969-dcab-7abc-a2c209e69a04",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "all": "170",
+      "upcoming": "97",
+      "wishlist": "101"
+    },
+    "notes": "TW China",
+    "index": "84"
+  },
+  {
+    "title": "Pragmatic Software Testing",
+    "cover": "http://bks2.books.google.com.au/books?id=n-bTHNW97kYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Rex Black",
+    "year": "2011",
+    "id": "ecea244e-881a-b15e-dabb-23a6e0e66ec6",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "all": "164",
+      "upcoming": "96",
+      "wishlist": "108"
+    },
+    "notes": "TW China",
+    "index": "85"
+  },
+  {
+    "title": "Crucial Confrontations",
+    "cover": "http://bks8.books.google.com.au/books?id=MVDrYeVKOpEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
+    "year": "2004",
+    "id": "7be41885-088e-b87d-df38-12bff865b40f",
+    "notes": "TW Thread",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "135",
+      "all": "163",
+      "wishlist": "100"
+    },
+    "index": "46"
+  },
+  {
+    "title": "Made to Stick",
+    "cover": "http://bks7.books.google.com.au/books?id=OUgCHkxZTX4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Dan Heath, Chip Heath",
+    "year": "2008",
+    "id": "030d9e6f-d4ff-a444-348f-0e898f92d99f",
+    "notes": "Needham",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "128",
+      "wishlist": "99",
+      "all": "162"
+    },
+    "index": "53"
+  },
+  {
+    "title": "Kanban",
+    "cover": "http://bks8.books.google.com.au/books?id=RJ0VUkfUWZkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "David J. Anderson",
+    "year": "2010",
+    "id": "a7494303-ce8e-c2f4-e05d-804eb6bdabca",
+    "notes": "Kanban",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "131",
+      "wishlist": "98",
+      "all": "161"
+    },
+    "index": "50"
+  },
+  {
+    "title": "Agile Software Development: The Cooperative Game",
+    "cover": "http://bks3.books.google.com.au/books?id=i39yimbrzh4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Alistair Cockburn",
+    "year": "2007",
+    "id": "f78199a6-8a02-6618-43c1-397515b0f404",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "130",
+      "wishlist": "96",
+      "all": "160"
+    },
+    "index": "51"
+  },
+  {
+    "title": "Framework Design Guidelines",
+    "cover": "http://bks5.books.google.com.au/books?id=39d1wZ598ecC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Krzysztof Cwalina, Brad Abrams",
+    "year": "2008",
+    "id": "82dd62a9-4f65-4156-d11e-e095b03d9a9a",
+    "notes": "Programming",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "95",
+      "wishlist": "80",
+      "all": "159"
+    },
+    "index": "86"
+  },
+  {
+    "title": "Agile Experience Design",
+    "cover": "http://bks3.books.google.com.au/books?id=oBxMu32ufQIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Lindsay Ratcliffe, Marc McNeill",
+    "year": "2011",
+    "id": "2b74d3fa-d029-0731-5514-fbd647ae657a",
+    "notes": "XD",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "70",
+      "wishlist": "52",
+      "all": "158",
+      "read": "9"
+    },
+    "index": "99"
+  },
+  {
+    "title": "The Startup Owner's Manual",
+    "cover": "",
+    "author": "Steve Blank, Bob Dorf",
+    "year": "2012",
+    "id": "c594da8d-4fac-760a-67db-4573b94e6bec",
+    "notes": "Startups",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "94",
+      "wishlist": "95",
+      "all": "157"
+    },
+    "index": "87"
+  },
+  {
+    "title": "Business Model Generation",
+    "cover": "http://bks2.books.google.com.au/books?id=fklTInjiPQAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Alexander Osterwalder, Yves Pigneur",
+    "year": "2010",
+    "id": "88c4de92-6350-abb0-b519-4386dc22bea4",
+    "notes": "Startups",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "148",
+      "wishlist": "94",
+      "all": "156"
+    },
+    "index": "33"
+  },
+  {
+    "title": "Toyota Production System",
+    "cover": "http://bks9.books.google.com.au/books?id=7_-67SshOy8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Taiichi Ōno",
+    "year": "1988",
+    "id": "663607f7-b3ef-d51a-6d32-f1fe99b7ecad",
+    "notes": "Lean",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "93",
+      "wishlist": "93",
+      "all": "155"
+    },
+    "index": "88"
+  },
+  {
+    "title": "Management 3.0",
+    "cover": "http://bks9.books.google.com.au/books?id=Yoh9mTBwj-sC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Jurgen Appelo",
+    "year": "2010",
+    "id": "5d76ef53-e9d4-b8b3-f6f4-350aca6dd207",
+    "notes": "Management",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "129",
+      "wishlist": "92",
+      "all": "154"
+    },
+    "index": "52"
+  },
+  {
+    "title": "How to Change the World: Change Management 3.0",
+    "author": "Jurgen Appelo",
+    "year": "2012",
+    "cover": "",
+    "notes": "Management",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "id": "a4191828-258a-d395-5ddb-dce9308bc434",
+    "priority": {
+      "upcoming": "120",
+      "wishlist": "91",
+      "all": "153"
+    },
+    "index": "61"
+  },
+  {
+    "title": "97 Things Every Programmer Should Know",
+    "cover": "http://bks8.books.google.com.au/books?id=sS7aPtrUuw4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Kevlin Henney",
+    "year": "2010",
+    "id": "0ad33734-7d6a-4f7d-88a7-c6780b71ea54",
+    "notes": "Programming",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "92",
+      "wishlist": "90",
+      "all": "152"
+    },
+    "index": "89"
+  },
+  {
+    "title": "The Architecture of Open Source Applications",
+    "cover": "",
+    "author": "Amy Brown",
+    "year": "2011",
+    "id": "c23506d9-dfdd-bf0d-d55f-ad703b8d8292",
+    "notes": "Programming",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "91",
+      "wishlist": "89",
+      "all": "151"
+    },
+    "index": "90"
+  },
+  {
+    "title": "Web Operations",
+    "cover": "http://bks1.books.google.com.au/books?id=0oXB7aFQ1FwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "John Allspaw, Jesse Robbins",
+    "year": "2010",
+    "id": "decf9434-c311-f7ed-5de7-1be51d1e8c05",
+    "notes": "DevOps",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "90",
+      "wishlist": "88",
+      "all": "150"
+    },
+    "index": "91"
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs, 2nd Edition",
+    "cover": "http://bks2.books.google.com.au/books?id=ga08_TnGBzAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Harold Autor Abelson, Gerald Jay Autor Sussman, Julie Autor Sussman",
+    "year": "1996",
+    "id": "53fbff69-4f0c-e3b2-c4f5-60e14ee1dde5",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "164",
+      "all": "149"
+    },
+    "index": "17"
+  },
+  {
+    "title": "The Joy of Clojure",
+    "cover": "http://bks9.books.google.com.au/books?id=kPyNSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Michael Fogus, Chris Houser",
+    "year": "2011",
+    "id": "a83bd259-3107-89c6-1cf3-65fa56bb2b3a",
+    "notes": "Clojure",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "13",
+      "read": "18",
+      "all": "148"
+    },
+    "index": "109"
+  },
+  {
+    "title": "Learning JavaScript Design Patterns",
+    "cover": "http://bks2.books.google.com.au/books?id=JYPEgK-1bZoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Addy Osmani",
+    "year": "2012",
+    "id": "065a810f-5bef-f6df-ab49-5bbec4280072",
+    "notes": "JavaScript",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "161",
+      "all": "147"
+    },
+    "index": "20"
+  },
+  {
+    "title": "Patterns For Large-Scale JavaScript Application Architecture",
+    "author": "Addy Osmani",
+    "year": "2012",
+    "cover": "",
+    "notes": "JavaScript",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "id": "74b0ddc3-58be-2079-4326-23dcc519e779",
+    "priority": {
+      "upcoming": "162",
+      "all": "146"
+    },
+    "index": "19"
+  },
+  {
+    "title": "Programming Clojure",
+    "cover": "http://bks8.books.google.com.au/books?id=2Zo5AwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Stuart Halloway, Aaron Bedra",
+    "year": "2012",
+    "id": "5df9124d-c3c9-5d1f-d858-d35793c70258",
+    "notes": "Clojure",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "70",
+      "all": "145",
+      "read": "16"
+    },
+    "index": "112"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "cover": "http://bks2.books.google.com.au/books?id=5wBQEp6ruIAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Andrew Hunt, David Thomas",
+    "year": "1999",
+    "id": "a9570434-a42c-f007-579a-5b870f992a1c",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "132",
+      "wishlist": "87",
+      "all": "144"
+    },
+    "index": "49"
+  },
+  {
+    "title": "Code Quality",
+    "cover": "http://bks4.books.google.com.au/books?id=vEN-ckcdtCwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Diomidis D. Spinellis",
+    "year": "2006",
+    "id": "b08a3d7d-644c-8cb7-9c79-629257e1475c",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "89",
+      "wishlist": "86",
+      "all": "143"
+    },
+    "index": "92"
+  },
+  {
+    "title": "Code Reading",
+    "cover": "http://bks4.books.google.com.au/books?id=8lYbNfsAVT4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Diomidis D. Spinellis",
+    "year": "2003",
+    "id": "b6a61ef7-ceea-5fc4-220c-0de1ee74dbab",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "88",
+      "wishlist": "85",
+      "all": "142"
+    },
+    "index": "93"
+  },
+  {
+    "title": "Dreaming in Code",
+    "cover": "http://bks9.books.google.com.au/books?id=TzsqA_hrjTcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Scott Rosenberg",
+    "year": "2008",
+    "id": "06805874-a74c-fe9e-7325-f130ddc2ecb0",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "87",
+      "wishlist": "84",
+      "all": "141"
+    },
+    "index": "94"
+  },
+  {
+    "title": "Extreme Programming Refactored",
+    "cover": "http://bks5.books.google.com.au/books?id=Y-98v8l0xlIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Doug Rosenberg, Matt Stephens",
+    "year": "2003",
+    "id": "cb64830d-de21-ce12-8516-b20b404ce588",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "86",
+      "wishlist": "83",
+      "all": "140"
+    },
+    "index": "95"
+  },
+  {
+    "title": "Joe Celko's SQL for Smarties",
+    "cover": "http://bks6.books.google.com.au/books?id=8y823V4-5ioC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Joe Celko",
+    "year": "2010",
+    "id": "ac137724-c93c-68a6-086a-00e5ca46f590",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "85",
+      "wishlist": "82",
+      "all": "139"
+    },
+    "index": "96"
+  },
+  {
+    "title": "Hackers & Painters",
+    "cover": "http://bks6.books.google.com.au/books?id=IezOirt2n-gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Paul Graham",
+    "year": "2009",
+    "id": "3b2c676a-65a9-40df-1450-89561008d0b8",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "84",
+      "wishlist": "81",
+      "all": "100"
+    },
+    "index": "97"
+  },
+  {
+    "title": "Hacker's Delight",
+    "cover": "http://bks6.books.google.com.au/books?id=VicPJYM0I5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Henry S. Warren",
+    "year": "2012",
+    "id": "55f6869c-f519-eba2-c0e6-e5f096f71b7c",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "83",
+      "wishlist": "97",
+      "all": "137"
+    },
+    "index": "98"
+  },
+  {
+    "title": "The Passionate Programmer",
+    "cover": "http://bks8.books.google.com.au/books?id=FvJePgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Chad Fowler",
+    "year": "2009",
+    "id": "fa9060e0-cf14-4013-0909-dfc4eae1d8fa",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "82",
+      "wishlist": "79",
+      "all": "136"
+    },
+    "index": "99"
+  },
+  {
+    "title": "Object Thinking",
+    "cover": "http://bks4.books.google.com.au/books?id=Laih3tPstjYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "David West",
+    "year": "2009",
+    "id": "88b8eb41-96ee-1da5-409f-27fb58380deb",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "81",
+      "wishlist": "78",
+      "all": "135"
+    },
+    "index": "100"
+  },
+  {
+    "title": "Patterns of Software",
+    "cover": "http://bks0.books.google.com.au/books?id=uwFLPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Richard P. Gabriel",
+    "year": "1998",
+    "id": "aeb95a46-dccc-07b6-269c-e74538c96621",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "80",
+      "wishlist": "77",
+      "all": "134"
+    },
+    "index": "101"
+  },
+  {
+    "title": "Practical Common Lisp",
+    "cover": "http://bks7.books.google.com.au/books?id=-7Iha7ls1-8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Peter Seibel",
+    "year": "2005",
+    "id": "30fb50aa-9c18-c2fe-a240-858fe5c3a127",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "79",
+      "wishlist": "76",
+      "all": "133"
+    },
+    "index": "102"
+  },
+  {
+    "title": "Programming Language Pragmatics",
+    "cover": "http://bks9.books.google.com.au/books?id=GBISkhhrHh8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Michael L. Scott",
+    "year": "2009",
+    "id": "18cf6508-4d1f-8a3b-b242-382d4351f237",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "78",
+      "wishlist": "75",
+      "all": "132"
+    },
+    "index": "103"
+  },
+  {
+    "title": "Programming Pearls",
+    "cover": "http://bks7.books.google.com.au/books?id=kse_7qbWbjsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jon Louis Bentley",
+    "year": "2000",
+    "id": "836f499a-7dff-2777-303d-3d1d40704b7c",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "77",
+      "wishlist": "74",
+      "all": "131"
+    },
+    "index": "104"
+  },
+  {
+    "title": "Agile Retrospective",
+    "cover": "http://bks0.books.google.com.au/books?id=x2_OAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Esther Derby, Diana Larsen",
+    "year": "2006",
+    "id": "ef2870bd-968a-9680-e919-40602f3e4278",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "76",
+      "wishlist": "73",
+      "all": "130"
+    },
+    "index": "105"
+  },
+  {
+    "title": "Purely Functional Data Structures",
+    "cover": "http://bks4.books.google.com.au/books?id=SxPzSTcTalAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Chris Okasaki",
+    "year": "1999",
+    "id": "5515209a-bd00-5ba1-b31c-76e022fd46a1",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "75",
+      "wishlist": "72",
+      "all": "129"
+    },
+    "index": "106"
+  },
+  {
+    "title": "Round the Bend",
+    "cover": "http://bks5.books.google.com.au/books?id=-DSslUme9agC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Nevil Shute",
+    "year": "2010",
+    "id": "767b4ccb-116e-3846-20c7-9a3f622db116",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "74",
+      "wishlist": "71",
+      "all": "128"
+    },
+    "index": "107"
+  },
+  {
+    "title": "SmallTalk Best Practice Patterns",
+    "cover": "http://bks6.books.google.com.au/books?id=PQx2QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Kent Beck",
+    "year": "1997",
+    "id": "82ea002b-c895-cf39-bfda-9a03b646a88d",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "73",
+      "wishlist": "70",
+      "all": "127"
+    },
+    "index": "108"
+  },
+  {
+    "title": "Software Craftmanship",
+    "cover": "http://bks2.books.google.com.au/books?id=C9vvHV1lIawC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Pete McBreen",
+    "year": "2002",
+    "id": "512b9cbc-b2ce-ed29-e91b-6a60844ee450",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "72",
+      "wishlist": "69",
+      "all": "126"
+    },
+    "index": "109"
+  },
+  {
+    "title": "The Practice of Programming",
+    "cover": "http://bks2.books.google.com.au/books?id=to6M9_dbjosC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Brian W. Kernighan, Rob Pike",
+    "year": "1999",
+    "id": "09199729-2814-0f99-b0b6-f97cf22f0afe",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "71",
+      "wishlist": "68",
+      "all": "125"
+    },
+    "index": "110"
+  },
+  {
+    "title": "Zen And The Art Of Motorcycle Maintenance",
+    "cover": "http://bks4.books.google.com.au/books?id=DPhACEL1orEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Robert Pirsig",
+    "year": "2011",
+    "id": "62c64263-e94b-4f67-ae43-26dc3b80cef7",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "70",
+      "wishlist": "67",
+      "all": "124"
+    },
+    "index": "111"
+  },
+  {
+    "title": "Release It!",
+    "cover": "http://bks2.books.google.com.au/books?id=md4uNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Michael T. Nygard",
+    "year": "2007",
+    "id": "cfd4750c-7824-afd5-b39b-2d02d4022f50",
+    "notes": "Canon",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "70",
+      "wishlist": "22",
+      "all": "123",
+      "read": "15"
+    },
+    "index": "134"
+  },
+  {
+    "title": "To Mock a Mockingbird",
+    "cover": "http://bks5.books.google.com.au/books?id=6_CcsKjNbzUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Raymond M. Smullyan",
+    "year": "1985",
+    "id": "33b4a5cd-77cf-f85e-7d2e-a6ef447ab6c6",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "69",
+      "wishlist": "66",
+      "all": "122"
+    },
+    "index": "112"
+  },
+  {
+    "title": "The Reasoned Schemer",
+    "cover": "http://bks7.books.google.com.au/books?id=_xciAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Daniel P. Friedman, William E. Byrd, Oleg Kiselyov",
+    "year": "2005",
+    "id": "ed80de5b-3b6b-9867-cec2-a8089105e73d",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "68",
+      "wishlist": "65",
+      "all": "121"
+    },
+    "index": "113"
+  },
+  {
+    "title": "The Art of Agile Development",
+    "cover": "http://bks0.books.google.com.au/books?id=g_ji7cRb--UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "James Shore, Shane Warden",
+    "year": "2007",
+    "id": "b4cf4835-4f0e-1baf-9f72-dd7733db595a",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "67",
+      "wishlist": "64",
+      "all": "120"
+    },
+    "index": "114"
+  },
+  {
+    "title": "Fearless Change",
+    "cover": "http://bks0.books.google.com.au/books?id=lJlwQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Mary Lynn Manns, Linda Rising",
+    "year": "2005",
+    "id": "fceaef01-bc4b-c461-b896-e86026067ced",
+    "notes": "Canon",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "140",
+      "wishlist": "63",
+      "all": "119"
+    },
+    "index": "41"
+  },
+  {
+    "title": "The Art of Capacity Planning",
+    "cover": "http://bks0.books.google.com.au/books?id=Yi3trjJ1JuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "John Allspaw",
+    "year": "2008",
+    "id": "e03dbd60-6d74-1cd9-9b25-054d886fd8dc",
+    "notes": "DevOps",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "66",
+      "wishlist": "62",
+      "all": "118"
+    },
+    "index": "115"
+  },
+  {
+    "title": "Unwritten Laws of Engineering",
+    "cover": "",
+    "author": "W. J. King, James Skakoon",
+    "year": "2001",
+    "id": "ecc6893b-c528-7ffa-3bf3-57c6fcbc3fb7",
+    "notes": "Development",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "64",
+      "wishlist": "61",
+      "all": "117"
+    },
+    "index": "117"
+  },
+  {
+    "title": "The No Asshole Rule",
+    "cover": "http://bks9.books.google.com.au/books?id=2FSlSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Robert I. Sutton",
+    "year": "2011",
+    "id": "be373bbe-30ce-7b30-0681-2ab2223473c8",
+    "notes": "Development",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "65",
+      "wishlist": "60",
+      "all": "116"
+    },
+    "index": "116"
+  },
+  {
+    "title": "How Google Tests Software",
+    "cover": "http://bks8.books.google.com.au/books?id=VrAx1ATf-RoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "James A. Whittaker, Jason Arbon, Jeff Carollo",
+    "year": "2012",
+    "id": "6a7cbcbc-c805-a7b1-1178-e5e0ba731522",
+    "notes": "Jolt 2012",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "63",
+      "wishlist": "59",
+      "all": "115"
+    },
+    "index": "118"
+  },
+  {
+    "title": "Running Lean",
+    "cover": "http://bks4.books.google.com.au/books?id=j4hXPn233UYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Ash Maurya",
+    "year": "2012",
+    "id": "47a0b913-6a6a-2eda-426e-335d53c66aae",
+    "notes": "Jolt 2012",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "62",
+      "wishlist": "58",
+      "all": "114"
+    },
+    "index": "119"
+  },
+  {
+    "title": "Elemental Design Patterns",
+    "cover": "http://bks7.books.google.com.au/books?id=OaG9IsCIkkcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jason McC. Smith",
+    "year": "2012",
+    "id": "74758580-bc27-2067-4835-f024ad2d05e0",
+    "notes": "Jolt 2012",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "61",
+      "wishlist": "57",
+      "all": "113"
+    },
+    "index": "120"
+  },
+  {
+    "title": "iOS Programming",
+    "cover": "http://bks8.books.google.com.au/books?id=1eA2RGmEcSYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Joe Conway, Aaron Hillegass",
+    "year": "2012",
+    "id": "6f058cf5-00f6-654b-71c9-acbdcbe59454",
+    "notes": "Jolt 2012",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "59",
+      "wishlist": "46",
+      "all": "112"
+    },
+    "index": "122"
+  },
+  {
+    "title": "Agile Analytics",
+    "cover": "http://bks1.books.google.com.au/books?id=0X7Dohne1tQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Ken W. Collier",
+    "year": "2011",
+    "id": "28cee9c6-5e57-e753-88d6-cfe579655ba3",
+    "notes": "TWer",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "60",
+      "wishlist": "55",
+      "all": "111"
+    },
+    "index": "121"
+  },
+  {
+    "title": "Joe Celko's Data & Databases",
+    "cover": "http://bks3.books.google.com.au/books?id=6jqZExL6UGcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Joe Celko",
+    "year": "1999",
+    "id": "92a78d29-3d0b-31d9-4d1d-8220c3a1ae61",
+    "notes": "Pramod",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "58",
+      "wishlist": "54",
+      "all": "110"
+    },
+    "index": "123"
+  },
+  {
+    "title": "Principles of Object-Oriented Programming in JavaScript",
+    "author": "Nicholas C. Zakas",
+    "year": "2012",
+    "cover": "https://s3.amazonaws.com/titlepages.leanpub.com/oopinjavascript/bookpage?1355855568",
+    "notes": "JavaScript",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "id": "472d1fda-a1a0-cd4b-d420-3c73c05940fd",
+    "priority": {
+      "upcoming": "57",
+      "wishlist": "53",
+      "all": "109"
+    },
+    "index": "124"
+  },
+  {
+    "title": "The Psychology of Judgment and Decision Making",
+    "cover": "http://bks2.books.google.com.au/books?id=xvWOQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Scott Plous",
+    "year": "1993",
+    "id": "c39656c8-afb6-827a-0f3d-9ff5013c3680",
+    "notes": "Psychology",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "134",
+      "wishlist": "52",
+      "all": "108"
+    },
+    "index": "47"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "cover": "http://bks9.books.google.com.au/books?id=oV1tXT3HigoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Daniel Kahneman",
+    "year": "2011",
+    "id": "9f6f2501-a2b4-6a14-f881-77537c755f19",
+    "notes": "Psychology",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "184",
+      "wishlist": "51",
+      "all": "107"
+    },
+    "index": "150"
+  },
+  {
+    "title": "The Toyota Way",
+    "cover": "http://bks7.books.google.com.au/books?id=9v_sxqERqvMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jeffrey Liker",
+    "year": "2003",
+    "id": "2d309d44-709b-4c32-c009-3e715f3ba32a",
+    "notes": "TW Brisbane",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "70",
+      "all": "106",
+      "read": "14"
+    },
+    "index": "151"
+  },
+  {
+    "title": "Resonate",
+    "cover": "http://bks0.books.google.com.au/books?id=JJsM3Sedy0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Nancy Duarte",
+    "year": "2010",
+    "id": "6efbea08-43fa-9c11-6c65-cb410fa1844e",
+    "notes": "Presentations",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "124",
+      "wishlist": "50",
+      "all": "105"
+    },
+    "index": "57"
+  },
+  {
+    "title": "The Art of Explanation",
+    "cover": "http://bks2.books.google.com.au/books?id=Ux3Oo0MaLU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Lee LeFever",
+    "year": "2012",
+    "id": "7a32de3f-28f8-b5cc-efe1-1d594c52e27f",
+    "notes": "Soft Skills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "137",
+      "wishlist": "49",
+      "all": "104"
+    },
+    "index": "44"
+  },
+  {
+    "title": "The Fifth Discipline Fieldbook",
+    "cover": "http://bks1.books.google.com.au/books?id=mmclolCJ0AkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Peter M. Senge",
+    "year": "1994",
+    "id": "e6848be6-929b-2512-9218-57e583f94fa2",
+    "notes": "Inference",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "138",
+      "wishlist": "48",
+      "all": "103"
+    },
+    "index": "43"
+  },
+  {
+    "title": "The Six Sigma Way: How GE, Motorola, and Other Top Companies are Honing Their Performance",
+    "cover": "http://bks8.books.google.com.au/books?id=ybOuvzvcqTAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Peter Pande, Robert Neuman, Roland Cavanagh",
+    "year": "2000",
+    "id": "28c2f39c-cba2-f9b4-de4b-10223a1c73e3",
+    "notes": "Six Sigma",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "126",
+      "wishlist": "47",
+      "all": "102"
+    },
+    "index": "55"
+  },
+  {
+    "title": "CMMI for Development",
+    "cover": "http://bks3.books.google.com.au/books?id=X64MkgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Mary Beth Chrissis, Mike Konrad, Sandy Shrum",
+    "year": "2011",
+    "id": "bc694726-3e68-a943-48c9-fafd9f575ef7",
+    "notes": "CMMI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "125",
+      "wishlist": "56",
+      "all": "101"
+    },
+    "index": "56"
+  },
+  {
+    "title": "The Design of Everyday Things",
+    "cover": "http://bks1.books.google.com.au/books?id=w8pM72p_dpoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Donald A. Norman",
+    "year": "2002",
+    "id": "264d5cf7-8545-f4b2-b651-af512c7434d6",
+    "notes": "Ben Melbourne",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "56",
+      "all": "138",
+      "wishlist": "45"
+    },
+    "index": "125"
+  },
+  {
+    "title": "The Goal",
+    "cover": "http://bks8.books.google.com.au/books?id=6vdJLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Eliyahu M. Goldratt, Jeff Cox, David Whitford",
+    "year": "2012",
+    "id": "d876f4fa-bd1b-3617-9789-5865caec3328",
+    "notes": "Robin",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "60",
+      "all": "99",
+      "read": "11"
+    },
+    "index": "158"
+  },
+  {
+    "title": "A Mind of Its Own",
+    "cover": "",
+    "author": "Cordelia Fine",
+    "year": "2006",
+    "id": "e04f3b3f-ad81-ce06-9be4-e32689f45790",
+    "notes": "Sarah",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "133",
+      "all": "98",
+      "wishlist": "44"
+    },
+    "index": "48"
+  },
+  {
+    "title": "Spring in Action",
+    "cover": "http://bks8.books.google.com.au/books?id=p66UQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Craig Walls",
+    "year": "2011",
+    "id": "721ddfde-4807-87a0-222f-28ce12d4b253",
+    "notes": "Java",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "63",
+      "read": "10",
+      "all": "97"
+    },
+    "index": "160"
+  },
+  {
+    "title": "Real World Java EE Patterns Rethinking Best Practices",
+    "cover": "",
+    "author": "Adam Bien",
+    "year": "2012",
+    "id": "bdf0b1ba-ba75-4df9-351e-0b32071243df",
+    "notes": "Java",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "127",
+      "wishlist": "43",
+      "all": "96"
+    },
+    "index": "54"
+  },
+  {
+    "title": "Beginning Java EE 6 with GlassFish 3",
+    "cover": "http://bks5.books.google.com.au/books?id=8pQbMr5X-yMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Antonio Goncalves",
+    "year": "2010",
+    "id": "229323c1-9fda-a36c-c836-5c0daf7640a0",
+    "notes": "Java",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "63",
+      "read": "13",
+      "all": "95"
+    },
+    "index": "162"
+  },
+  {
+    "title": "Kanban For Skeptics",
+    "author": "Nick Oostvogels",
+    "year": "2012",
+    "cover": "https://s3.amazonaws.com/titlepages.leanpub.com/kanbanforskeptics/bookpage?1355774760",
+    "notes": "TW Thread",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "id": "3e3abe7f-c2f2-ac86-9e86-c731ee03109d",
+    "priority": {
+      "upcoming": "55",
+      "wishlist": "42",
+      "all": "41"
+    },
+    "index": "126"
+  },
+  {
+    "title": "Hadoop: The Definitive Guide",
+    "cover": "http://bks9.books.google.com.au/books?id=Nff49D7vnJcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Tom White",
+    "year": "2010",
+    "id": "e74ffc89-11e5-a934-a2a2-42bc13355a41",
+    "notes": "Gap",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "70",
+      "read": "5",
+      "all": "93"
+    },
+    "index": "164"
+  },
+  {
+    "title": "HBase: The Definitive Guide",
+    "cover": "http://bks2.books.google.com.au/books?id=nUhiQxUXVpMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Lars George",
+    "year": "2011",
+    "id": "31ebdacd-109a-673a-9e64-74b2f2db7015",
+    "notes": "Gap",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "81",
+      "read": "4",
+      "all": "92"
+    },
+    "index": "165"
+  },
+  {
+    "title": "MapReduce Design Patterns",
+    "cover": "http://bks0.books.google.com.au/books?id=io44nAL61JYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Donald Miner, Adam Shook",
+    "year": "2012",
+    "id": "f785f21c-76de-4669-b41b-f5a57299bbc5",
+    "notes": "Gap",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "155",
+      "all": "91"
+    },
+    "index": "26"
+  },
+  {
+    "title": "The Art of UNIX Programming",
+    "cover": "http://bks0.books.google.com.au/books?id=H4q1t-jAcBIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Eric S. Raymond",
+    "year": "2003",
+    "id": "ac64a539-ae98-b64a-9645-c5f9112f343f",
+    "notes": "Recommended",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "149",
+      "wishlist": "41",
+      "all": "90"
+    },
+    "index": "32"
+  },
+  {
+    "title": "What Color Is Your Parachute?",
+    "cover": "http://bks4.books.google.com.au/books?id=Tu_ooQHs9YgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Richard N. Bolles",
+    "year": "2012",
+    "id": "9923d774-15f6-80ea-a42f-d0ebb829f8cd",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "52",
+      "wishlist": "40",
+      "all": "89"
+    },
+    "index": "129"
+  },
+  {
+    "title": "Permission Marketing",
+    "cover": "http://bks1.books.google.com.au/books?id=W7ITAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Seth Godin",
+    "year": "2007",
+    "id": "73222593-b6bd-9280-8618-a30a02d0001e",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "51",
+      "wishlist": "39",
+      "all": "88"
+    },
+    "index": "130"
+  },
+  {
+    "title": "The Tipping Point",
+    "cover": "http://bks5.books.google.com.au/books?id=m5QvNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Malcolm Gladwell",
+    "year": "2013",
+    "id": "cde7bc9f-62ad-e812-4856-c66365eed435",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "50",
+      "wishlist": "38",
+      "all": "87"
+    },
+    "index": "131"
+  },
+  {
+    "title": "Mastering The Rockfeller Habits",
+    "cover": "http://bks9.books.google.com.au/books?id=wbZP9ESN6iYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Verne Harnish",
+    "year": "2007",
+    "id": "3d8edf45-7e8f-7dee-b47c-22bae5233059",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "48",
+      "wishlist": "37",
+      "all": "86"
+    },
+    "index": "133"
+  },
+  {
+    "title": "The E-Myth Revisited",
+    "cover": "http://bks1.books.google.com.au/books?id=2X2X2r-wRaQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Michael E. Gerber",
+    "year": "2009",
+    "id": "01a871eb-be4a-9f35-e500-0db6ce4e70c6",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "49",
+      "wishlist": "5",
+      "all": "85"
+    },
+    "index": "132"
+  },
+  {
+    "title": "The Three Big Questions for a Frantic Family",
+    "cover": "http://bks5.books.google.com.au/books?id=1fhE6PHOMSYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Patrick M. Lencioni",
+    "year": "2008",
+    "id": "652b1fa5-5fd3-ea53-057c-d15690cf4f5d",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "47",
+      "wishlist": "35",
+      "all": "84"
+    },
+    "index": "134"
+  },
+  {
+    "title": "Fixing broken windows",
+    "cover": "http://bks8.books.google.com.au/books?id=yWy4qAx7DKUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "George L. Kelling, Catherine M. Coles",
+    "year": "1997",
+    "id": "62d3e089-74a4-5385-453a-166c3edacff4",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "46",
+      "wishlist": "34",
+      "all": "83"
+    },
+    "index": "135"
+  },
+  {
+    "title": "Who Moved My Cheese?",
+    "cover": "http://bks3.books.google.com.au/books?id=G8J9RhbOTKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Spencer Johnson",
+    "year": "2002",
+    "id": "5ee32cac-8618-dfdc-1811-3db9a6f6fc94",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "45",
+      "wishlist": "33",
+      "all": "82"
+    },
+    "index": "136"
+  },
+  {
+    "title": "Good to Great",
+    "cover": "http://bks5.books.google.com.au/books?id=xN-xvQ7PbloC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "James Charles Collins",
+    "year": "2001",
+    "id": "300136e5-8706-d3d3-9ed9-2078b6168f8e",
+    "notes": "BusinessLI",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "54",
+      "wishlist": "32",
+      "all": "81"
+    },
+    "index": "127"
+  },
+  {
+    "title": "The Five Dysfunctions of a Team: A Leadership Fable ",
+    "cover": "http://bks0.books.google.com.au/books?id=j6oCd4KyQM8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Patrick Lencioni",
+    "year": "2002",
+    "id": "c48e29f7-c843-68e0-a559-16a9bb2b9a52",
+    "notes": "Business",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "53",
+      "wishlist": "31",
+      "all": "80"
+    },
+    "index": "128"
+  },
+  {
+    "title": "Innovation games",
+    "cover": "http://bks2.books.google.com.au/books?id=Vb3pAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Luke Hohmann",
+    "year": "2007",
+    "id": "5d283d03-9034-35a5-1b09-cc5ec92981c5",
+    "notes": "IG",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "139",
+      "wishlist": "30",
+      "all": "79"
+    },
+    "index": "42"
+  },
+  {
+    "title": "Crucial Conversations",
+    "cover": "http://bks5.books.google.com.au/books?id=x0xIg42tKycC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "May Sarton",
+    "year": "1994",
+    "id": "dc1dbbf4-8350-4c7e-9cd3-2d0fd8a99128",
+    "notes": "Soft Skills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "136",
+      "wishlist": "29",
+      "all": "78"
+    },
+    "index": "45"
+  },
+  {
+    "title": "Break Through Rapid Reading",
+    "cover": "http://bks7.books.google.com.au/books?id=ZGQBr2H1qMQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Peter Kump",
+    "year": "1999",
+    "id": "00628075-c950-bd9c-b08e-38656323df73",
+    "notes": "Speed Reading",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "44",
+      "wishlist": "28",
+      "all": "77"
+    },
+    "index": "137"
+  },
+  {
+    "title": "OWASP Top 10 for .NET developers",
+    "author": "Troy Hunt",
+    "year": "2012",
+    "cover": "",
+    "notes": "Security",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "id": "f4a689ff-028d-62c5-654c-578500a8a8ad",
+    "priority": {
+      "upcoming": "159",
+      "all": "76"
+    },
+    "index": "22"
+  },
+  {
+    "title": "Domain-Driven Design Quickly",
+    "author": "Abel Avram, Floyd Marinescu",
+    "year": "2006",
+    "cover": "",
+    "notes": "DDD",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "id": "6227388a-8649-ec22-16cb-91277ad28c5a",
+    "priority": {
+      "upcoming": "158",
+      "all": "75"
+    },
+    "index": "23"
+  },
+  {
+    "title": "A Practical Approach to Large-Scale Agile Development",
+    "cover": "http://bks5.books.google.com.au/books?id=zLx3304H2qAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Gary Gruver, Mike Young, Pat Fulghum",
+    "year": "2012",
+    "id": "0a78520f-988a-f6bb-dc69-634a93bfa815",
+    "notes": "Jez",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "43",
+      "wishlist": "27",
+      "all": "74"
+    },
+    "index": "138"
+  },
+  {
+    "title": "The Nomadic Developer",
+    "cover": "http://bks4.books.google.com.au/books?id=kmVtWFeWdjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Aaron Erickson",
+    "year": "2009",
+    "id": "64e1776e-b0aa-bde6-876e-c355ea208faf",
+    "notes": "TWer",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "42",
+      "wishlist": "26",
+      "all": "73"
+    },
+    "index": "139"
+  },
+  {
+    "title": "The Phoenix Project",
+    "cover": "http://bks2.books.google.com.au/books?id=mqXomAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Gene Kim, Kevin Behr, George Spafford",
+    "year": "2013",
+    "id": "800af83f-166e-2336-dacd-1e58600f5724",
+    "notes": "Jez",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "41",
+      "wishlist": "25",
+      "all": "72"
+    },
+    "index": "140"
+  },
+  {
+    "title": "Code Simplicity",
+    "cover": "http://bks2.books.google.com.au/books?id=Rgz6Qd-u7p8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Max Kanat-Alexander",
+    "year": "2012",
+    "id": "0a43db88-88ca-3e89-dd3a-f30884576923",
+    "notes": "Recommended",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "40",
+      "wishlist": "24",
+      "all": "71"
+    },
+    "index": "141"
+  },
+  {
+    "title": "Lessons Learned in Software Testing",
+    "cover": "http://bks3.books.google.com.au/books?id=byZmT73R1a8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Cem Kaner, James Bach, Bret Pettichord",
+    "year": "2011",
+    "id": "8f5496ac-55a0-0932-9bb0-d35623760b69",
+    "notes": "Testing",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "39",
+      "wishlist": "23",
+      "all": "70"
+    },
+    "index": "142"
+  },
+  {
+    "title": "Crucial Confrontations",
+    "cover": "http://bks8.books.google.com.au/books?id=MVDrYeVKOpEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
+    "year": "2004",
+    "id": "571ce654-d845-4dfd-5af3-fe60028500d0",
+    "notes": "Soft Skills",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "102",
+      "read": "3",
+      "all": "69"
+    },
+    "index": "188"
+  },
+  {
+    "title": "Crucial Conversations",
+    "cover": "http://bks3.books.google.com.au/books?id=iT6gYW2kQNYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
+    "year": "2011",
+    "id": "49bc65a8-744e-24d6-cee9-4f913920fab4",
+    "notes": "Soft Skills",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "103",
+      "read": "2",
+      "all": "68"
+    },
+    "index": "189"
+  },
+  {
+    "title": "Influencer: The Power to Change Anything",
+    "cover": "http://bks4.books.google.com.au/books?id=-4Vr7VhuFz8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, Al Switzler",
+    "year": "2007",
+    "id": "29e3baa7-b9a5-aae0-4b45-9df7a9327074",
+    "notes": "Soft Skills",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "107",
+      "read": "1",
+      "all": "67"
+    },
+    "index": "190"
+  },
+  {
+    "title": "The Phoenix Project",
+    "cover": "http://bks2.books.google.com.au/books?id=mqXomAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Gene Kim, Kevin Behr, George Spafford",
+    "year": "2013",
+    "id": "f1b7492d-5078-2ed0-9b46-3dd3471c1bc9",
+    "notes": "DevOps",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "170",
+      "all": "66"
+    },
+    "index": "11"
+  },
+  {
+    "title": "Discussing the Undiscussable",
+    "cover": "http://bks9.books.google.com.au/books?id=y-YlfR6jCroC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "William R. Noonan",
+    "year": "2012",
+    "id": "1e4c6fff-8603-418b-a770-4f6e8f8cf80e",
+    "notes": "Soft Skills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "144",
+      "wishlist": "22",
+      "all": "65"
+    },
+    "index": "37"
+  },
+  {
+    "title": "A Random Walk Down Wall Street (10th Edition)",
+    "cover": "http://bks2.books.google.com.au/books?id=O8x1YpBp6WYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Burton G. Malkiel",
+    "year": "2011",
+    "id": "6f6835c7-573e-c81e-a790-611225c8c02b",
+    "notes": "Economics",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "150",
+      "wishlist": "21",
+      "all": "64"
+    },
+    "index": "31"
+  },
+  {
+    "title": "Impact Mapping",
+    "cover": "http://bks0.books.google.com.au/books?id=6tNoMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Gojko Adzic",
+    "year": "2012",
+    "id": "9940242a-07bd-c319-c46b-609677279c2c",
+    "notes": "BA",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "147",
+      "wishlist": "20",
+      "all": "63"
+    },
+    "index": "34"
+  },
+  {
+    "title": "How to Measure Anything",
+    "cover": "http://bks2.books.google.com.au/books?id=693e2X6XV3MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Douglas W. Hubbard",
+    "year": "2007",
+    "id": "7aabfec5-6a29-fef8-9de0-a72274162ecb",
+    "notes": "Gojko",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "145",
+      "wishlist": "19",
+      "all": "62"
+    },
+    "index": "36"
+  },
+  {
+    "title": "Graph Databases",
+    "cover": "http://bks5.books.google.com.au/books?id=RTvAmQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Ian Robinson, Jim Webber, Emil Eifrem",
+    "year": "2013",
+    "id": "c26be2af-d7d9-e8ac-b8c1-ddf29e8dbcf2",
+    "notes": "TWers",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "141",
+      "all": "61"
+    },
+    "index": "196"
+  },
+  {
+    "title": "What you need to know about dates and times in computing",
+    "author": "Mike Bain, Ryan Boucher, Ashley Rollke",
+    "year": "2013",
+    "cover": "",
+    "notes": "TWer",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "id": "9f3035fb-8b0d-03d8-f4dd-a15f48748147",
+    "priority": {
+      "upcoming": "183",
+      "all": "60"
+    },
+    "index": "197"
+  },
+  {
+    "title": "Testable JavaScript",
+    "cover": "http://bks2.books.google.com.au/books?id=hjE767CCeQwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Mark Trostler",
+    "year": "2013",
+    "id": "04ea8689-eb86-85e7-6b85-7a0f34d0d4d8",
+    "notes": "JavaScript",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "38",
+      "wishlist": "18",
+      "all": "59"
+    },
+    "index": "143"
+  },
+  {
+    "title": "Training From the Back of the Room!",
+    "cover": "http://bks9.books.google.com.au/books?id=1qeWLyXuhE0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Sharon L. Bowman",
+    "year": "2008",
+    "id": "c3889ace-4b09-d894-05f2-6bb9be10ee6b",
+    "notes": "Soft Skills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "142",
+      "wishlist": "17",
+      "all": "58"
+    },
+    "index": "39"
+  },
+  {
+    "title": "Switch",
+    "cover": "http://bks3.books.google.com.au/books?id=XmzbeoN-KZ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Chip Heath, Dan Heath",
+    "year": "2011",
+    "id": "00ccdba8-b9a8-54ad-e0a4-d43e57d70e84",
+    "notes": "Soft Skills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "143",
+      "wishlist": "16",
+      "all": "57"
+    },
+    "index": "38"
+  },
+  {
+    "title": "The Secrets of Facilitation",
+    "cover": "http://bks1.books.google.com.au/books?id=g1Y-b45hqLcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Michael Wilkinson",
+    "year": "2012",
+    "id": "efd153d1-1b75-ce04-19f4-1a4ba6f7283e",
+    "notes": "Soft Skills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "37",
+      "wishlist": "15",
+      "all": "56"
+    },
+    "index": "144"
+  },
+  {
+    "title": "Management of Research and Development Organizations",
+    "cover": "http://bks3.books.google.com.au/books?id=quZsrbF9ZzgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Ravinder Kuma Jain, Harry C. Triandis",
+    "year": "1997",
+    "id": "4e38f3a9-f919-c9be-19af-6abad3d02be1",
+    "notes": "Management",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "36",
+      "wishlist": "14",
+      "all": "55"
+    },
+    "index": "145"
+  },
+  {
+    "title": "Data-Intensive Text Processing With MapReduce",
+    "cover": "http://bks7.books.google.com.au/books?id=GxFYuVZHG60C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jimmy Linn, Chris Dyer",
+    "year": "2010",
+    "id": "b0fe5762-d06b-6f26-6bfb-d757e18bcc44",
+    "notes": "Hadoop",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "153",
+      "wishlist": "13",
+      "all": "54"
+    },
+    "index": "28"
+  },
+  {
+    "title": "Programming Hive",
+    "cover": "http://bks5.books.google.com.au/books?id=n8FffirFaQIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Edward Capriolo, Dean Wampler, Jason Rutherglen",
+    "year": "2012",
+    "id": "a8166192-5987-5063-a5f7-35b8972a7be6",
+    "notes": "Hadoop",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "152",
+      "wishlist": "12",
+      "all": "53"
+    },
+    "index": "29"
+  },
+  {
+    "title": "Programming Pig",
+    "cover": "http://bks2.books.google.com.au/books?id=0zimI7NoObIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Alan Gates",
+    "year": "2011",
+    "id": "6dcad965-3222-9dd6-dfed-b86fb70e2d72",
+    "notes": "Hadoop",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "151",
+      "wishlist": "11",
+      "all": "52"
+    },
+    "index": "30"
+  },
+  {
+    "title": "Pride and Paradev",
+    "author": "Alister Scott",
+    "year": "2013",
+    "cover": "https://s3.amazonaws.com/titlepages.leanpub.com/pride-and-paradev/bookpage?1370435343",
+    "notes": "TWer",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "id": "a0f14ffe-7896-808b-548b-6dd8bdd1f30f",
+    "priority": {
+      "upcoming": "183",
+      "all": "51"
+    },
+    "index": "206"
+  },
+  {
+    "title": "The Enterprise and Scrum",
+    "cover": "http://bks6.books.google.com.br/books?id=I2UAiIEEJagC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Ken Schwaber",
+    "year": "2011",
+    "id": "f2a764a1-a7fa-1ae1-12a7-93a26395b03d",
+    "notes": "TW Thread",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "35",
+      "wishlist": "10",
+      "all": "50"
+    },
+    "index": "146"
+  },
+  {
+    "title": "Managing Humans",
+    "cover": "http://bks0.books.google.com.br/books?id=-VLNVRTnTF8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Michael Lopp",
+    "year": "2012",
+    "id": "1d667e66-fd04-3a13-a4c6-36c62686434c",
+    "notes": "TW Thread",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "34",
+      "wishlist": "9",
+      "all": "49"
+    },
+    "index": "147"
+  },
+  {
+    "title": "Becoming a Technical Leader",
+    "cover": "http://bks1.books.google.com.br/books?id=CLK3AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Gerald M. Weinberg",
+    "year": "1986",
+    "id": "60bd71ff-a1e8-f77a-323b-86abcc4471cb",
+    "notes": "TW Thread",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "33",
+      "wishlist": "8",
+      "all": "48"
+    },
+    "index": "148"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "cover": "http://bks1.books.google.com.br/books?id=ZuKTvERuPG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Daniel Kahneman",
+    "year": "2011",
+    "id": "ef52c495-f8f8-9af4-f257-d06b76ace0ff",
+    "notes": "TW Thread",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "32",
+      "wishlist": "7",
+      "all": "47"
+    },
+    "index": "149"
+  },
+  {
+    "title": "Vagrant: Up and Running",
+    "cover": "http://bks5.books.google.com.br/books?id=9c0hT2EOxLQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Mitchell Hashimoto",
+    "year": "2013",
+    "id": "84f887d3-ee96-9093-9cc8-c3cd1e2a14f9",
+    "notes": "DevOps",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "31",
+      "wishlist": "6",
+      "all": "46"
+    },
+    "index": "150"
+  },
+  {
+    "title": "Linux Shell Scripting Cookbook",
+    "cover": "http://bks4.books.google.com.br/books?id=Y4xAhxfTXxgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Sarath Lakshman",
+    "year": "2011",
+    "id": "b0bc13ed-a2f3-f62e-532f-74f25ce92525",
+    "notes": "TWer",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "30",
+      "wishlist": "36",
+      "all": "45"
+    },
+    "index": "151"
+  },
+  {
+    "title": "Team Geek",
+    "cover": "http://bks8.books.google.com.br/books?id=Iwk_pKeBc9gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Brian Fitzpatrick, Ben Collins-Sussman",
+    "year": "2012",
+    "id": "038abf57-39f8-9b1a-c6b8-d0d0a59e2967",
+    "notes": "Jolt 2013",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "29",
+      "wishlist": "4",
+      "all": "44"
+    },
+    "index": "152"
+  },
+  {
+    "title": "Taming Text",
+    "cover": "http://bks0.books.google.com.br/books?id=gZctcgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Grant S. Ingersoll, Thomas S. Morton, Andrew L. Farris",
+    "year": "2012",
+    "id": "a2b961c5-e991-1233-15ea-38bef0bbd4ec",
+    "notes": "Jolt 2013",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "28",
+      "wishlist": "3",
+      "all": "43"
+    },
+    "index": "153"
+  },
+  {
+    "title": "Dependency Injection in .Net",
+    "cover": "http://bks8.books.google.com.br/books?id=lnOqcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Mark Seemann",
+    "year": "2011",
+    "id": "1b321af0-2bec-c6b7-b7fd-f8aaae09183d",
+    "notes": "Jolt 2013",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "27",
+      "wishlist": "2",
+      "all": "42"
+    },
+    "index": "154"
+  },
+  {
+    "title": "Lean UX",
+    "cover": "http://bks1.books.google.com.br/books?id=7TDQ4WZ1BHoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jeff Gothelf",
+    "year": "2013",
+    "id": "73356f42-5c4f-215b-6b75-057cd1aa2682",
+    "notes": "Jolt 2013",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "wishlist": "1",
+      "upcoming": "26",
+      "all": "94"
+    },
+    "index": "155"
+  },
+  {
+    "title": "Ansible Whitepapers",
+    "author": "Ansible",
+    "year": "2013",
+    "cover": "",
+    "notes": "Deployment",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "id": "030bed90-5e49-dd61-1132-584ef45ff066",
+    "priority": {
+      "upcoming": "157",
+      "all": "40"
+    },
+    "index": "24"
+  },
+  {
+    "title": "Instant Chef Starter",
+    "cover": "http://bks9.books.google.com.br/books?id=MnTRSv9FZ5kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "John Ewart",
+    "year": "2013",
+    "id": "8ca08c58-9bf3-edac-d46f-4c690e066efb",
+    "notes": "Deployment",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "156",
+      "all": "39"
+    },
+    "index": "25"
+  },
+  {
+    "title": "Remote",
+    "cover": "http://bks0.books.google.com.br/books?id=KeJE7Tyl6o8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jason Fried, David Heinemeier Hansson",
+    "year": "2013",
+    "id": "dd872dd3-a2cd-1777-f4fa-bcd222d0512e",
+    "notes": "37Singals",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "25",
+      "all": "38"
+    },
+    "index": "156"
+  },
+  {
+    "title": "The Progress Principle",
+    "cover": "http://bks9.books.google.com.br/books?id=7YgGqk3pD3oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Teresa Amabile, Steven Kramer",
+    "year": "2011",
+    "id": "32c31c51-51b0-9d6f-89ec-3ea4411729be",
+    "notes": "PeoplePerfomance",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "24",
+      "all": "37"
+    },
+    "index": "157"
+  },
+  {
+    "title": "The Lean Mindset",
+    "cover": "http://bks2.books.google.com.br/books?id=YZ3yAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Mary Poppendieck, Tom Poppendieck",
+    "year": "2013",
+    "id": "cf12b2d9-e8aa-78e6-7655-15634570138f",
+    "notes": "Lean",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "23",
+      "all": "36"
+    },
+    "index": "158"
+  },
+  {
+    "title": "Practical Object-Oriented Design in Ruby",
+    "cover": "http://bks9.books.google.com.br/books?id=VRCv_bATuSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Sandi Metz",
+    "year": "2012",
+    "id": "d5e8215a-45fe-1ff0-ab9b-8ba4863dbc9b",
+    "notes": "PeteHodgson",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "21",
+      "all": "35"
+    },
+    "index": "160"
+  },
+  {
+    "title": "Adaptive Leadership",
+    "cover": "http://bks6.books.google.com.br/books?id=IQHsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jim Highsmith",
+    "year": "2013",
+    "id": "3c63552a-f14b-f191-b377-23d943d32bce",
+    "notes": "TWer",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "20",
+      "all": "34"
+    },
+    "index": "161"
+  },
+  {
+    "title": "Thinking in Systems",
+    "cover": "http://bks9.books.google.com.br/books?id=leE8R9pehg4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Diana Wright, Donella H. Meadows",
+    "year": "2012",
+    "id": "609c02ea-7b01-146f-61f9-05e75d2f6704",
+    "notes": "Kua: Systems Thinking",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "22",
+      "all": "33"
+    },
+    "index": "159"
+  },
+  {
+    "title": "The Fifth Discipline",
+    "cover": "http://bks8.books.google.com.br/books?id=b0XHUvs_iBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Peter M. Senge",
+    "year": "2010",
+    "id": "7b453b04-e870-610d-c125-d3422f4405da",
+    "notes": "Kua\n",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "19",
+      "all": "1"
+    },
+    "index": "162"
+  },
+  {
+    "title": "The Systems Thinking Playbook",
+    "cover": "http://bks2.books.google.com.br/books?id=rNSNtQ8cPYUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Linda Booth Sweeney, Dennis Meadows",
+    "year": "2010",
+    "id": "dd531f8d-f3ec-76c8-83f6-ed2c52c94928",
+    "notes": "Kua: Systems Thinking",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "18",
+      "all": "31"
+    },
+    "index": "163"
+  },
+  {
+    "title": "Mature Optimization Handbook",
+    "author": "Carlos Bueno",
+    "year": "2013",
+    "cover": "",
+    "notes": "Facebook",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "id": "584bfc34-427b-c52b-e2ff-1516b6080476",
+    "priority": {
+      "upcoming": "165",
+      "all": "30"
+    },
+    "index": "16"
+  },
+  {
+    "title": "Facilitator's Guide to Participatory Decision-Making",
+    "cover": "http://bks1.books.google.com.br/books?id=yMi2SszbxG4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Sam Kaner",
+    "year": "2011",
+    "id": "e9bbd3c4-79d4-ccae-43c0-326193bb4137",
+    "notes": "Presenting",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "17",
+      "all": "29"
+    },
+    "index": "164"
+  },
+  {
+    "title": "The Skilled Facilitator",
+    "cover": "http://bks0.books.google.com.br/books?id=vVR6zOhdCbIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Roger Schwarz",
+    "year": "2002",
+    "id": "7a8d0a25-1fb0-c8d7-1524-011cee205a70",
+    "notes": "Presenting",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "16",
+      "all": "28"
+    },
+    "index": "165"
+  },
+  {
+    "title": "Software Architecture for Developers",
+    "author": "Simon Brown",
+    "year": "2013",
+    "cover": "",
+    "notes": "Technical",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "id": "b9b84c8e-b6fc-994c-71c0-fd1f2f03d9e0",
+    "priority": {
+      "upcoming": "15",
+      "all": "27"
+    },
+    "index": "166"
+  },
+  {
+    "title": "Test-Driven JavaScript Development",
+    "cover": "http://bks6.books.google.com.br/books?id=W218yMY2MhcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Christian Johansen",
+    "year": "2010",
+    "id": "816f2882-c70e-87c2-556b-f694fbc43a5b",
+    "notes": "JS",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "14",
+      "all": "26"
+    },
+    "index": "167"
+  },
+  {
+    "title": "Slide:ology",
+    "cover": "http://bks2.books.google.com.br/books?id=aSXdz_-aFqYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Nancy Duarte",
+    "year": "2008",
+    "id": "86e78873-08a9-ac7a-c47d-118a103d6492",
+    "notes": "Presenting",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "13",
+      "all": "25"
+    },
+    "index": "168"
+  },
+  {
+    "title": "Slack",
+    "cover": "http://bks7.books.google.com.br/books?id=3AuP7HV14SYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Tom DeMarco",
+    "year": "2001",
+    "id": "e3915b84-ef40-0e53-1490-0c1c3ca62bf9",
+    "notes": "Lean",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "12",
+      "all": "24"
+    },
+    "index": "169"
+  },
+  {
+    "title": "Theories of Work",
+    "author": "David P. Joyce",
+    "year": "2013",
+    "cover": "",
+    "notes": "TWer",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "id": "d98833b6-d1b6-683e-6498-3ab1529a55ce",
+    "priority": {
+      "upcoming": "11",
+      "all": "23"
+    },
+    "index": "170"
+  },
+  {
+    "title": "Liftoff",
+    "cover": "",
+    "author": "Diana Larsen, Ainsley Nies",
+    "year": "2011",
+    "id": "f4c18975-0534-ea70-6198-ee70a624edd3",
+    "notes": "Agile",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "10",
+      "all": "22"
+    },
+    "index": "171"
+  },
+  {
+    "title": "Practical Vim",
+    "cover": "http://bks8.books.google.com.br/books?id=DlTYuQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Drew Neil",
+    "year": "2012",
+    "id": "64c25956-dd3b-776c-a2da-72ad1494d45d",
+    "notes": "Unix",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "9",
+      "all": "21"
+    },
+    "index": "172"
+  },
+  {
+    "title": "Software Estimation: Demystifying the Black Art",
+    "cover": "http://bks8.books.google.com.br/books?id=OCY3AkM6nXIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Steve McConnell",
+    "year": "2009",
+    "id": "8cc7b300-210a-7108-7c05-e72f04652973",
+    "notes": "TW Thread",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "8",
+      "all": "20"
+    },
+    "index": "173"
+  },
+  {
+    "title": "Implementing Domain-Driven Design",
+    "cover": "http://bks2.books.google.com.br/books?id=X7DpD5g3VP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Vaughn Vernon",
+    "year": "2013",
+    "id": "5c5d2a10-5622-3c05-50ee-358a171888e0",
+    "notes": "DDD",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "7",
+      "all": "19"
+    },
+    "index": "174"
+  },
+  {
+    "title": "Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal",
+    "cover": "http://bks3.books.google.com.br/books?id=P3EFa-WuMMkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Oren Klaff",
+    "year": "2011",
+    "id": "5b8d46b2-b99a-d8c7-15b4-1a45c3f985d4",
+    "notes": "Soft Skills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "6",
+      "all": "18"
+    },
+    "index": "175"
+  },
+  {
+    "title": "Change Anything",
+    "cover": "http://bks8.books.google.com.br/books?id=Q8RvpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, Al Switzler",
+    "year": "2012",
+    "id": "c4d4a94b-1a8e-71a8-abc7-db6d1cc0d32c",
+    "notes": "Soft Skills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "174",
+      "all": "17"
+    },
+    "index": "7"
+  },
+  {
+    "title": "Neuro Web Design",
+    "cover": "http://bks3.books.google.com.br/books?id=va7XOSAWZTMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Susan Weinschenk",
+    "year": "2009",
+    "id": "6e9ee612-e912-b077-6fb7-9b7bcf9fb2b0",
+    "notes": "WesleyCook",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "5",
+      "all": "16"
+    },
+    "index": "176"
+  },
+  {
+    "title": "Predictably Irrational, Revised and Expanded Edition",
+    "cover": "http://bks5.books.google.com.br/books?id=T-db9SRf0XsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Dr. Dan Ariely",
+    "year": "2009",
+    "id": "5b605e38-a9a0-2e0c-f5d8-3801ca1de3ef",
+    "notes": "WesleyCook",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "4",
+      "all": "15"
+    },
+    "index": "177"
+  },
+  {
+    "title": "Eyetracking Web Usability",
+    "cover": "http://bks5.books.google.com.br/books?id=EeQhHqjgQosC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Jakob Nielsen, Kara Pernice",
+    "year": "2010",
+    "id": "2761aee8-6498-00d4-df2a-9f05449a4778",
+    "notes": "WesleyCook",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "2",
+      "all": "14"
+    },
+    "index": "179"
+  },
+  {
+    "title": "Socialnomics",
+    "cover": "http://bks8.books.google.com.br/books?id=66wd4Bdvj0UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Erik Qualman",
+    "year": "2012",
+    "id": "7085a16a-7c16-f980-ef32-0bb10377545b",
+    "notes": "WesleyCook",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "3",
+      "all": "13"
+    },
+    "index": "178"
+  },
+  {
+    "title": "Driving Technical Change",
+    "cover": "http://bks2.books.google.com.br/books?id=wdX7RAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Terrence Ryan",
+    "year": "2010",
+    "id": "27f3e587-d7fc-880c-9118-4807b90a76e2",
+    "notes": "SoftSkills",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "175",
+      "all": "12"
+    },
+    "index": "6"
+  },
+  {
+    "title": "Ship It!",
+    "cover": "http://bks3.books.google.com.br/books?id=ka1QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Jared R. Richardson, William A. Gwaltney, Jr.",
+    "year": "2005",
+    "id": "db589582-3be2-40f4-1f55-d1e04e02be10",
+    "notes": "Ops",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "173",
+      "all": "11"
+    },
+    "index": "8"
+  },
+  {
+    "title": "Cucumber Recipes",
+    "cover": "http://bks3.books.google.com.br/books?id=u6aQMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Ian Dees, Matt Wynne, Aslak Hellesoy",
+    "year": "2013",
+    "id": "98f964d7-560d-caac-12e3-1450f96d860f",
+    "notes": "Testing",
+    "hasBeenRead": "true",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "182",
+      "all": "10"
+    },
+    "index": "247"
+  },
+  {
+    "title": "Practical Vim",
+    "cover": "http://bks8.books.google.com.br/books?id=DlTYuQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Drew Neil",
+    "year": "2012",
+    "id": "0dcbbd09-147f-ea73-dc9c-62a97a43edc2",
+    "notes": "Unix",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "172",
+      "all": "9"
+    },
+    "index": "9"
+  },
+  {
+    "title": "Explore It!",
+    "cover": "http://bks7.books.google.com.br/books?id=jxqpMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "author": "Elisabeth Hendrickson",
+    "year": "2013",
+    "id": "94c9526a-e90e-c2ff-6a28-ca9e66b7e08c",
+    "notes": "Testing",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "171",
+      "all": "8"
+    },
+    "index": "10"
+  },
+  {
+    "title": "Java Concurrency in Practice",
+    "cover": "http://bks9.books.google.com.br/books?id=EK43StEVfJIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Tim Peierls, Brian Goetz, Joshua Bloch, Joseph Bowbeer, Doug Lea, David Holmes",
+    "year": "2006",
+    "id": "3784c86e-fee1-6678-93c7-72c35c939501",
+    "notes": "Java",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "178",
+      "all": "7"
+    },
+    "index": "3"
+  },
+  {
+    "title": "Java Performance",
+    "cover": "http://ecx.images-amazon.com/images/I/41DYRXp1sDL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg",
+    "author": "Hunt, Charlie and John, Binu",
+    "year": "2011",
+    "id": "13331542-c0c2-0b99-21be-13273fe03589",
+    "notes": "Java",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "177",
+      "all": "6"
+    },
+    "index": "4"
+  },
+  {
+    "title": "Core Java Volume I - Fundamentals",
+    "cover": "http://bks2.books.google.com.br/books?id=8j--hmt8a38C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Cay S. Horstmann, Gary Cornell",
+    "year": "2012",
+    "id": "d967d63e-710c-60fd-ca64-02a790e2ded6",
+    "notes": "Java",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "180",
+      "all": "5"
+    },
+    "index": "1"
+  },
+  {
+    "title": "Java SE 8 for the Really Impatient",
+    "cover": "http://bks9.books.google.com.br/books?id=d2CMAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Cay S. Horstmann",
+    "year": "2014",
+    "id": "8327e538-145a-ce82-aaf3-8b6e9b49e669",
+    "notes": "Java",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "176",
+      "all": "4"
+    },
+    "index": "5"
+  },
+  {
+    "title": "Core Java, Volume II - Advanced Features",
+    "cover": "http://bks2.books.google.com.br/books?id=f85Nc08wEKsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Cay S. Horstmann, Gary Cornell",
+    "year": "2008",
+    "id": "143abacb-f8f7-62b2-0492-0d759f76e52f",
+    "notes": "Java",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "179",
+      "all": "3"
+    },
+    "index": "2"
+  },
+  {
+    "title": "CSS and Documents",
+    "cover": "http://bks5.books.google.com.br/books?id=pMNipAO1imwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Eric A. Meyer",
+    "year": "2012",
+    "id": "574c6c18-f887-47d9-ccec-bb01c9ad2740",
+    "notes": "Free",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "true",
+    "priority": {
+      "upcoming": "154",
+      "all": "2"
+    },
+    "index": "27"
+  },
+  {
+    "title": "JavaScript and HTML5 Now",
+    "cover": "http://bks6.books.google.com.br/books?id=UKaDF-3H_rIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "author": "Kyle Simpson",
+    "year": "2012",
+    "id": "d5c75fc2-521d-42b0-2b95-e90df513622d",
+    "notes": "HTML5",
+    "hasBeenRead": "false",
+    "ownTheBook": "false",
+    "ownTheEBook": "false",
+    "priority": {
+      "upcoming": "1",
+      "all": "32"
+    },
+    "index": "180"
+  }
+]
