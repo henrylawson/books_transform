@@ -3,9 +3,9 @@ require 'spec_helper'
 RSpec.describe GoodReadsImport::CSV do
 	context "when the there are several books" do
 
-    let(:book1) { build(:book, :has_been_read) }
-    let(:book2) { build(:book, :own_the_ebook) }
-    let(:book3) { build(:book, :own_the_book) }
+    let(:book1) { build(:book, :has_been_read, title: "TDD Test Driven Development", author: "Kent Beck", year: 2012) }
+    let(:book2) { build(:book, :own_the_ebook, title: "The Clean Coder: A Code of Conduct for Professional Programmers", author: "Robert C. Martin", year: 2011) }
+    let(:book3) { build(:book, :own_the_book, title: "The Elements of Scrum", author: "Chris Sims, Hillary Louise Johnson ", year: 2011) }
     let(:books) { [book1, book2, book3] }
 		
     subject { GoodReadsImport::CSV.new(books) }
@@ -18,6 +18,7 @@ RSpec.describe GoodReadsImport::CSV do
       is_read = true
 
       expect(subject.csv[1]).to eq([
+        "9780321146533",
         book1.title, 
         book1.author, 
         book1.year,
@@ -29,6 +30,7 @@ RSpec.describe GoodReadsImport::CSV do
       is_ebook_owned = true
 
       expect(subject.csv[2]).to eq([
+        "9780132542883",
         book2.title, 
         book2.author, 
         book2.year,
@@ -40,6 +42,7 @@ RSpec.describe GoodReadsImport::CSV do
       is_book_owned = true
       
       expect(subject.csv[3]).to eq([
+        "9780982866917",
         book3.title, 
         book3.author, 
         book3.year,

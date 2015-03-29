@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'json', '~> 1.8.2'
+gem 'httparty', '~> 0.13.3'
 
 group :develpment, :test do
   gem "bundler", "~> 1.7"
