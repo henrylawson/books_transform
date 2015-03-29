@@ -9,7 +9,7 @@ module GoodReadsImport
     def csv
       csv_rows = [HEADER]
       @books.each do |book|
-        csv_rows << book.squash
+        csv_rows << book.squash.map { |record| "'#{record}'" }
       end
       csv_rows
     end
